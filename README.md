@@ -10,6 +10,10 @@ See `lib/data/` for all the JSON files available. The `registry.json` file conta
 
 This project will be updated as the registry changes. Non-breaking updates will result in the minor version number being bumped.
 
+Run `make update` to force an update from the latest official IANA-hosted version. The registry file format is converted to JSON automatically and the files in `data/` are updated.
+
+If there are changes, please make a pull request.
+
 ## Usage ##
 
 See [language-tags](https://github.com/mattcg/language-tags) for a Javascript API.
