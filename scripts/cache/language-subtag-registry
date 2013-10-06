@@ -1,4 +1,4 @@
-File-Date: 2013-09-23
+File-Date: 2013-10-04
 %%
 Type: language
 Subtag: aa
@@ -46039,6 +46039,16 @@ Subtag: ulster
 Description: Ulster dialect of Scots
 Added: 2010-04-10
 Prefix: sco
+%%
+Type: variant
+Subtag: unifon
+Description: Unifon phonetic alphabet
+Added: 2013-10-02
+Prefix: en
+Prefix: hup
+Prefix: kyh
+Prefix: tol
+Prefix: yur
 %%
 Type: variant
 Subtag: vaidika
