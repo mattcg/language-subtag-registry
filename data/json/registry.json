@@ -68666,6 +68666,15 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Ahom",
+		"Description": [
+			"Ahom",
+			"Tai Ahom"
+		],
+		"Added": "2013-12-02"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Arab",
 		"Description": [
 			"Arabic"
@@ -69045,6 +69054,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Hatr",
+		"Description": [
+			"Hatran"
+		],
+		"Added": "2013-12-02"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Hebr",
 		"Description": [
 			"Hebrew"
@@ -69351,7 +69368,7 @@
 		"Type": "script",
 		"Subtag": "Mend",
 		"Description": [
-			"Mende"
+			"Mende Kikakui"
 		],
 		"Added": "2010-04-10"
 	},
@@ -69378,6 +69395,15 @@
 			"Malayalam"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Modi",
+		"Description": [
+			"Modi",
+			"Moḍī"
+		],
+		"Added": "2013-12-02"
 	},
 	{
 		"Type": "script",
@@ -69416,6 +69442,14 @@
 			"Meetei"
 		],
 		"Added": "2007-01-26"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Mult",
+		"Description": [
+			"Multani"
+		],
+		"Added": "2013-12-02"
 	},
 	{
 		"Type": "script",
@@ -69521,6 +69555,14 @@
 			"Palmyrene"
 		],
 		"Added": "2010-04-10"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Pauc",
+		"Description": [
+			"Pau Cin Hau"
+		],
+		"Added": "2013-12-02"
 	},
 	{
 		"Type": "script",
@@ -69678,6 +69720,16 @@
 			"Śāradā"
 		],
 		"Added": "2011-01-07"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Sidd",
+		"Description": [
+			"Siddham",
+			"Siddhaṃ",
+			"Siddhamātṛkā"
+		],
+		"Added": "2013-12-02"
 	},
 	{
 		"Type": "script",
@@ -72605,6 +72657,21 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "barla",
+		"Description": [
+			"The Barlavento dialect group of Kabuverdianu"
+		],
+		"Prefix": [
+			"kea"
+		],
+		"Comments": [
+			"Barlavento is one of the two main dialect groups of",
+			"Kabuverdianu."
+		],
+		"Added": "2013-12-10"
+	},
+	{
+		"Type": "variant",
 		"Subtag": "bauddha",
 		"Description": [
 			"Buddhist Hybrid Sanskrit"
@@ -72689,6 +72756,19 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "ekavsk",
+		"Description": [
+			"Serbian with Ekavian pronunciation"
+		],
+		"Prefix": [
+			"sr",
+			"sr-Latn",
+			"sr-Cyrl"
+		],
+		"Added": "2013-12-02"
+	},
+	{
+		"Type": "variant",
 		"Subtag": "emodeng",
 		"Description": [
 			"Early Modern English (1500-1700)"
@@ -72766,6 +72846,19 @@
 			"Norwegian following Ivar Aasen's orthographical principles,",
 			"including modern usage."
 		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "ijekavsk",
+		"Description": [
+			"Serbian with Ijekavian pronunciation"
+		],
+		"Prefix": [
+			"sr",
+			"sr-Latn",
+			"sr-Cyrl"
+		],
+		"Added": "2013-12-02"
 	},
 	{
 		"Type": "variant",
@@ -73124,6 +73217,21 @@
 			"The dialect of Stolvizza/Solbica is one of the four major",
 			"local dialects of Resian"
 		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "sotav",
+		"Description": [
+			"The Sotavento dialect group of Kabuverdianu"
+		],
+		"Prefix": [
+			"kea"
+		],
+		"Comments": [
+			"Sotavento is one of the two main dialect groups of",
+			"Kabuverdianu."
+		],
+		"Added": "2013-12-10"
 	},
 	{
 		"Type": "variant",
