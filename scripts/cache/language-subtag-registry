@@ -1,4 +1,4 @@
-File-Date: 2013-12-13
+File-Date: 2014-01-21
 %%
 Type: language
 Subtag: aa
@@ -45765,9 +45765,9 @@ Subtag: bohoric
 Description: Slovene in Bohorič alphabet
 Added: 2012-06-27
 Prefix: sl
-Comments: The subtag represents the alphabet codified by Adam Bohorič in
-  1584 and used from the first printed Slovene book and up to the mid-
-  19th century.
+Comments: The subtag represents the alphabet codified by Adam Bohorič
+  in 1584 and used from the first printed Slovene book and up to the
+  mid-19th century.
 %%
 Type: variant
 Subtag: boont
