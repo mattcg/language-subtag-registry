@@ -1,4 +1,4 @@
-File-Date: 2014-01-21
+File-Date: 2014-02-18
 %%
 Type: language
 Subtag: aa
@@ -45730,6 +45730,13 @@ Comments: Denotes alphabet used in Turkic republics/regions of the
   Turkic Alphabet; Birlәşdirilmiş Jeni Tyrk
   Әlifbasь (Birlesdirilmis Jeni Tyrk Elifbasi);
   Jaŋalif (Janalif).
+%%
+Type: variant
+Subtag: balanka
+Description: The Balanka dialect of Anii
+Added: 2014-02-15
+Prefix: blo
+Comments: Balanka is one of 19 Anii dialects.
 %%
 Type: variant
 Subtag: barla

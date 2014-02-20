@@ -72657,6 +72657,20 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "balanka",
+		"Description": [
+			"The Balanka dialect of Anii"
+		],
+		"Added": "2014-02-15",
+		"Prefix": [
+			"blo"
+		],
+		"Comments": [
+			"Balanka is one of 19 Anii dialects."
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "barla",
 		"Description": [
 			"The Barlavento dialect group of Kabuverdianu"
