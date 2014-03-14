@@ -3,7 +3,7 @@
 	"datapackage_version": "1.0-beta.5",
 	"title": "BCP 47/IANA language subtag data",
 	"description": "Full BCP 47 language subtag data from the official IANA repository, in JSON format with multiple indices.",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"keywords": [
 		"iana",
 		"bcp47",
