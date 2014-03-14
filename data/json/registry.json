@@ -2660,7 +2660,8 @@
 		"Type": "language",
 		"Subtag": "afi",
 		"Description": [
-			"Akrukay"
+			"Akrukay",
+			"Chini"
 		],
 		"Added": "2009-07-29"
 	},
@@ -4553,6 +4554,14 @@
 			"Arhâ"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "aqt",
+		"Description": [
+			"Angaité"
+		],
+		"Added": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -6963,6 +6972,7 @@
 		"Type": "language",
 		"Subtag": "bfc",
 		"Description": [
+			"Panyi Bai",
 			"Northern Bai"
 		],
 		"Added": "2009-07-29"
@@ -14656,8 +14666,8 @@
 		"Type": "language",
 		"Subtag": "dhg",
 		"Description": [
-			"Djangu",
-			"Dhangu"
+			"Dhangu",
+			"Djangu"
 		],
 		"Added": "2009-07-29"
 	},
@@ -16746,7 +16756,8 @@
 		"Description": [
 			"Emok"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -16847,6 +16858,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "enl",
+		"Description": [
+			"Enlhet"
+		],
+		"Added": "2014-02-28"
+	},
+	{
+		"Type": "language",
 		"Subtag": "enm",
 		"Description": [
 			"Middle English (1100-1500)"
@@ -16909,6 +16928,14 @@
 			"Enwan (Akwa Ibom State)"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "enx",
+		"Description": [
+			"Enxet"
+		],
+		"Added": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -17612,6 +17639,7 @@
 		"Type": "language",
 		"Subtag": "fly",
 		"Description": [
+			"Flaaitaal",
 			"Tsotsitaal"
 		],
 		"Added": "2009-07-29"
@@ -18753,6 +18781,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "gev",
+		"Description": [
+			"Eviya"
+		],
+		"Added": "2014-02-28"
+	},
+	{
+		"Type": "language",
 		"Subtag": "gew",
 		"Description": [
 			"Gera"
@@ -18889,7 +18925,7 @@
 		"Added": "2009-07-29",
 		"Deprecated": "2013-09-10",
 		"Comments": [
-			"see ggm, gtu, ikr"
+			"see gtu, ikr"
 		]
 	},
 	{
@@ -19380,6 +19416,14 @@
 		],
 		"Added": "2009-07-29",
 		"Scope": "collection"
+	},
+	{
+		"Type": "language",
+		"Subtag": "gmg",
+		"Description": [
+			"Magɨyi"
+		],
+		"Added": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -21802,6 +21846,7 @@
 		"Type": "language",
 		"Subtag": "hps",
 		"Description": [
+			"Hawai'i Sign Language (HSL)",
 			"Hawai'i Pidgin Sign Language"
 		],
 		"Added": "2009-07-29"
@@ -30168,7 +30213,7 @@
 		"Type": "language",
 		"Subtag": "lay",
 		"Description": [
-			"Lama (Myanmar)"
+			"Lama Bai"
 		],
 		"Added": "2009-07-29"
 	},
@@ -30615,7 +30660,11 @@
 		"Description": [
 			"Lengua"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28",
+		"Comments": [
+			"see enl, enx"
+		]
 	},
 	{
 		"Type": "language",
@@ -31625,7 +31674,9 @@
 		"Description": [
 			"Lamam"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28",
+		"Preferred-Value": "rmx"
 	},
 	{
 		"Type": "language",
@@ -34181,7 +34232,8 @@
 		"Description": [
 			"Maskoy Pidgin"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -42446,6 +42498,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "olt",
+		"Description": [
+			"Old Lithuanian"
+		],
+		"Added": "2014-02-28"
+	},
+	{
+		"Type": "language",
 		"Subtag": "oma",
 		"Description": [
 			"Omaha-Ponca"
@@ -45980,7 +46040,9 @@
 		"Description": [
 			"Purum Naga"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28",
+		"Preferred-Value": "pub"
 	},
 	{
 		"Type": "language",
@@ -48028,7 +48090,11 @@
 		"Description": [
 			"Sanapaná"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28",
+		"Comments": [
+			"see aqt, spn"
+		]
 	},
 	{
 		"Type": "language",
@@ -50609,6 +50675,14 @@
 			"Akukem"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "spn",
+		"Description": [
+			"Sanapaná"
+		],
+		"Added": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -53829,6 +53903,14 @@
 			"Upper Necaxa Totonac"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "tkv",
+		"Description": [
+			"Mur Pano"
+		],
+		"Added": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -59909,6 +59991,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "xaj",
+		"Description": [
+			"Ararandewára"
+		],
+		"Added": "2014-02-28"
+	},
+	{
+		"Type": "language",
 		"Subtag": "xal",
 		"Description": [
 			"Kalmyk",
@@ -60449,6 +60539,7 @@
 		"Type": "language",
 		"Subtag": "xgm",
 		"Description": [
+			"Dharumbal",
 			"Guwinmal"
 		],
 		"Added": "2013-09-10"
@@ -60608,6 +60699,14 @@
 			"Xiriâna"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "xis",
+		"Description": [
+			"Kisan"
+		],
+		"Added": "2014-02-28"
 	},
 	{
 		"Type": "language",
@@ -62875,6 +62974,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ygs",
+		"Description": [
+			"Yolŋu Sign Language"
+		],
+		"Added": "2014-02-28"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ygu",
 		"Description": [
 			"Yugul"
@@ -64055,7 +64162,9 @@
 		"Description": [
 			"Yugh"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2014-02-28",
+		"Preferred-Value": "yug"
 	},
 	{
 		"Type": "language",
@@ -66980,6 +67089,7 @@
 		"Type": "extlang",
 		"Subtag": "hps",
 		"Description": [
+			"Hawai'i Sign Language (HSL)",
 			"Hawai'i Pidgin Sign Language"
 		],
 		"Added": "2009-07-29",
@@ -68556,6 +68666,18 @@
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "yds",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "ygs",
+		"Description": [
+			"Yolŋu Sign Language"
+		],
+		"Added": "2014-02-28",
+		"Preferred-Value": "ygs",
 		"Prefix": [
 			"sgn"
 		]
