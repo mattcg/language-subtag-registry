@@ -1,4 +1,4 @@
-File-Date: 2014-03-27
+File-Date: 2014-04-10
 %%
 Type: language
 Subtag: aa
@@ -10856,6 +10856,11 @@ Subtag: esx
 Description: Eskimo-Aleut languages
 Added: 2009-07-29
 Scope: collection
+%%
+Type: language
+Subtag: esy
+Description: Eskayan
+Added: 2014-04-06
 %%
 Type: language
 Subtag: etb
@@ -28917,6 +28922,11 @@ Type: language
 Subtag: ptp
 Description: Patep
 Added: 2009-07-29
+%%
+Type: language
+Subtag: ptq
+Description: Pattapu
+Added: 2014-04-06
 %%
 Type: language
 Subtag: ptr
