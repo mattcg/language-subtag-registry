@@ -1,4 +1,4 @@
-File-Date: 2014-04-10
+File-Date: 2014-10-24
 %%
 Type: language
 Subtag: aa
@@ -40393,6 +40393,7 @@ Macrolanguage: jrb
 Type: language
 Subtag: yue
 Description: Yue Chinese
+Description: Cantonese
 Added: 2009-07-29
 Macrolanguage: zh
 %%
@@ -43257,6 +43258,7 @@ Prefix: sgn
 Type: extlang
 Subtag: yue
 Description: Yue Chinese
+Description: Cantonese
 Added: 2009-07-29
 Preferred-Value: yue
 Prefix: zh

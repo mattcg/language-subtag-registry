@@ -64071,7 +64071,8 @@
 		"Type": "language",
 		"Subtag": "yue",
 		"Description": [
-			"Yue Chinese"
+			"Yue Chinese",
+			"Cantonese"
 		],
 		"Added": "2009-07-29",
 		"Macrolanguage": "zh"
@@ -68714,7 +68715,8 @@
 		"Type": "extlang",
 		"Subtag": "yue",
 		"Description": [
-			"Yue Chinese"
+			"Yue Chinese",
+			"Cantonese"
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "yue",
