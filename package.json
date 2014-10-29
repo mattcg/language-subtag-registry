@@ -1,6 +1,6 @@
 {
 	"name": "language-subtag-registry",
-	"version": "0.3.4",
+	"version": "0.3.5",
 	"implements": ["CommonJS/Modules/1.0"],
 	"description": "Full BCP 47 language subtag data from the official IANA repository, in JSON format with multiple indices.",
 	"homepage": "https://github.com/mattcg/language-subtag-registry",
