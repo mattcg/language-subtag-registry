@@ -1,4 +1,4 @@
-File-Date: 2014-10-24
+File-Date: 2014-12-03
 %%
 Type: language
 Subtag: aa
@@ -45972,6 +45972,14 @@ Subtag: kkcor
 Description: Common Cornish orthography of Revived Cornish
 Added: 2008-10-14
 Prefix: kw
+%%
+Type: variant
+Subtag: kociewie
+Description: The Kociewie dialect of Polish
+Added: 2014-11-27
+Prefix: pl
+Comments: The dialect of Kociewie is spoken in the region around
+  Starogard Gdański, Tczew and Świecie in northern Poland.
 %%
 Type: variant
 Subtag: kscor

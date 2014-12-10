@@ -73068,6 +73068,21 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "kociewie",
+		"Description": [
+			"The Kociewie dialect of Polish"
+		],
+		"Added": "2014-11-27",
+		"Prefix": [
+			"pl"
+		],
+		"Comments": [
+			"The dialect of Kociewie is spoken in the region around",
+			"Starogard Gdański, Tczew and Świecie in northern Poland."
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "kscor",
 		"Description": [
 			"Standard Cornish orthography of Revived Cornish",
