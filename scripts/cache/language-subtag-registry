@@ -1,4 +1,4 @@
-File-Date: 2014-12-03
+File-Date: 2014-12-17
 %%
 Type: language
 Subtag: aa
@@ -43303,6 +43303,11 @@ Prefix: ms
 Macrolanguage: ms
 %%
 Type: script
+Subtag: Adlm
+Description: Adlam
+Added: 2014-12-11
+%%
+Type: script
 Subtag: Afak
 Description: Afaka
 Added: 2011-01-07
@@ -43322,6 +43327,11 @@ Type: script
 Subtag: Arab
 Description: Arabic
 Added: 2005-10-16
+%%
+Type: script
+Subtag: Aran
+Description: Arabic (Nastaliq variant)
+Added: 2014-12-11
 %%
 Type: script
 Subtag: Armi
@@ -43649,6 +43659,16 @@ Description: Khojki
 Added: 2011-08-16
 %%
 Type: script
+Subtag: Kitl
+Description: Khitan large script
+Added: 2014-12-11
+%%
+Type: script
+Subtag: Kits
+Description: Khitan small script
+Added: 2014-12-11
+%%
+Type: script
 Subtag: Knda
 Description: Kannada
 Added: 2005-10-16
@@ -43751,6 +43771,11 @@ Type: script
 Subtag: Mani
 Description: Manichaean
 Added: 2007-07-28
+%%
+Type: script
+Subtag: Marc
+Description: Marchen
+Added: 2014-12-11
 %%
 Type: script
 Subtag: Maya
@@ -43872,6 +43897,11 @@ Type: script
 Subtag: Orya
 Description: Oriya
 Added: 2005-10-16
+%%
+Type: script
+Subtag: Osge
+Description: Osage
+Added: 2014-12-11
 %%
 Type: script
 Subtag: Osma
