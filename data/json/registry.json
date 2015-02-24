@@ -1822,7 +1822,9 @@
 		"Description": [
 			"Aramanik"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "aas"
 	},
 	{
 		"Type": "language",
@@ -2401,7 +2403,9 @@
 		"Description": [
 			"Adap"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "dz"
 	},
 	{
 		"Type": "language",
@@ -2514,6 +2518,7 @@
 		"Type": "language",
 		"Subtag": "aee",
 		"Description": [
+			"Northeast Pashai",
 			"Northeast Pashayi"
 		],
 		"Added": "2009-07-29"
@@ -4242,6 +4247,7 @@
 		"Type": "language",
 		"Subtag": "aot",
 		"Description": [
+			"Atong",
 			"A'tong"
 		],
 		"Added": "2009-07-29"
@@ -5198,7 +5204,9 @@
 		"Description": [
 			"=/Kx'au//'ein"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "ktz"
 	},
 	{
 		"Type": "language",
@@ -8581,7 +8589,8 @@
 		"Description": [
 			"Bemba (Democratic Republic of Congo)"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -10761,7 +10770,8 @@
 		"Description": [
 			"Borna (Democratic Republic of Congo)"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -10963,7 +10973,8 @@
 		"Description": [
 			"Buya"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -11490,6 +11501,15 @@
 			"Izora"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "cbq",
+		"Description": [
+			"Tsucuba",
+			"Cuba"
+		],
+		"Added": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -16290,7 +16310,8 @@
 		"Description": [
 			"Daza"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -18849,7 +18870,9 @@
 		"Description": [
 			"Mangetti Dune !Xung"
 		],
-		"Added": "2012-08-12"
+		"Added": "2012-08-12",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "vaj"
 	},
 	{
 		"Type": "language",
@@ -19298,6 +19321,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "gku",
+		"Description": [
+			"ǂUngkue",
+			"=/Ungkue"
+		],
+		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
 		"Subtag": "glc",
 		"Description": [
 			"Bon Gula"
@@ -19316,6 +19348,7 @@
 		"Type": "language",
 		"Subtag": "glh",
 		"Description": [
+			"Northwest Pashai",
 			"Northwest Pashayi"
 		],
 		"Added": "2009-07-29"
@@ -20207,7 +20240,9 @@
 		"Description": [
 			"Gbati-ri"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "nyc"
 	},
 	{
 		"Type": "language",
@@ -22863,6 +22898,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "iks",
+		"Description": [
+			"Inuit Sign Language"
+		],
+		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ikt",
 		"Description": [
 			"Inuinnaqtun",
@@ -23007,7 +23050,8 @@
 		"Description": [
 			"Imeraguen"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -24262,6 +24306,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "jje",
+		"Description": [
+			"Jejueo"
+		],
+		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
 		"Subtag": "jjr",
 		"Description": [
 			"Bankal"
@@ -24991,7 +25043,8 @@
 		"Description": [
 			"Kakauhua"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -26746,6 +26799,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "kjv",
+		"Description": [
+			"Kaikavian Literary Language"
+		],
+		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
 		"Subtag": "kjx",
 		"Description": [
 			"Ramopa"
@@ -27670,7 +27731,9 @@
 		"Description": [
 			"Sara Dunjo"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "kwv"
 	},
 	{
 		"Type": "language",
@@ -28839,7 +28902,7 @@
 		"Type": "language",
 		"Subtag": "kue",
 		"Description": [
-			"Kuman"
+			"Kuman (Papua New Guinea)"
 		],
 		"Added": "2009-07-29"
 	},
@@ -29350,7 +29413,9 @@
 		"Description": [
 			"Kwak"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "yam"
 	},
 	{
 		"Type": "language",
@@ -29465,7 +29530,9 @@
 		"Description": [
 			"Kakihum"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "tvd"
 	},
 	{
 		"Type": "language",
@@ -31106,7 +31173,9 @@
 		"Description": [
 			"Lingkhim"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "raq"
 	},
 	{
 		"Type": "language",
@@ -37260,7 +37329,9 @@
 		"Description": [
 			"Maligo"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "vaj"
 	},
 	{
 		"Type": "language",
@@ -38143,6 +38214,7 @@
 		"Type": "language",
 		"Subtag": "naq",
 		"Description": [
+			"Khoekhoe",
 			"Nama (Namibia)"
 		],
 		"Added": "2009-07-29"
@@ -38167,6 +38239,7 @@
 		"Type": "language",
 		"Subtag": "nat",
 		"Description": [
+			"Ca̱hungwa̱rya̱",
 			"Hungworo"
 		],
 		"Added": "2009-07-29"
@@ -40271,7 +40344,8 @@
 		"Type": "language",
 		"Subtag": "nmw",
 		"Description": [
-			"Nimoa"
+			"Nimoa",
+			"Rifao"
 		],
 		"Added": "2009-07-29"
 	},
@@ -40481,7 +40555,9 @@
 		"Description": [
 			"Ngong"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "ngv"
 	},
 	{
 		"Type": "language",
@@ -40865,6 +40941,15 @@
 			"Southern Rengma Naga"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "nrf",
+		"Description": [
+			"Jèrriais",
+			"Guernésiais"
+		],
+		"Added": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -41676,6 +41761,14 @@
 			"Ngawun"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "nxo",
+		"Description": [
+			"Ndambomo"
+		],
+		"Added": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -43270,7 +43363,9 @@
 		"Description": [
 			"!O!ung"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "vaj"
 	},
 	{
 		"Type": "language",
@@ -43657,7 +43752,7 @@
 		"Type": "language",
 		"Subtag": "pby",
 		"Description": [
-			"Pyu"
+			"Pyu (Papua New Guinea)"
 		],
 		"Added": "2009-07-29"
 	},
@@ -44059,6 +44154,14 @@
 		],
 		"Added": "2009-07-29",
 		"Macrolanguage": "ar"
+	},
+	{
+		"Type": "language",
+		"Subtag": "pgd",
+		"Description": [
+			"Gāndhārī"
+		],
+		"Added": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -44688,6 +44791,7 @@
 		"Type": "language",
 		"Subtag": "pls",
 		"Description": [
+			"San Marcos Tlacoyalco Popoloca",
 			"San Marcos Tlalcoyalco Popoloca"
 		],
 		"Added": "2009-07-29"
@@ -44892,6 +44996,8 @@
 			"Mirpur Panjabi"
 		],
 		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "phr",
 		"Macrolanguage": "lah"
 	},
 	{
@@ -45677,6 +45783,7 @@
 		"Type": "language",
 		"Subtag": "psh",
 		"Description": [
+			"Southwest Pashai",
 			"Southwest Pashayi"
 		],
 		"Added": "2009-07-29"
@@ -45685,6 +45792,7 @@
 		"Type": "language",
 		"Subtag": "psi",
 		"Description": [
+			"Southeast Pashai",
 			"Southeast Pashayi"
 		],
 		"Added": "2009-07-29"
@@ -47785,6 +47893,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "rts",
+		"Description": [
+			"Yurats"
+		],
+		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
 		"Subtag": "rtw",
 		"Description": [
 			"Rathawi"
@@ -48236,6 +48352,7 @@
 		"Type": "language",
 		"Subtag": "sbf",
 		"Description": [
+			"Chabu",
 			"Shabo"
 		],
 		"Added": "2009-07-29"
@@ -49078,7 +49195,8 @@
 		"Description": [
 			"Songa"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -49810,6 +49928,7 @@
 		"Type": "language",
 		"Subtag": "skr",
 		"Description": [
+			"Saraiki",
 			"Seraiki"
 		],
 		"Added": "2009-07-29",
@@ -52077,6 +52196,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "syx",
+		"Description": [
+			"Samay"
+		],
+		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
 		"Subtag": "syy",
 		"Description": [
 			"Al-Sayyid Bedouin Sign Language"
@@ -53495,7 +53622,9 @@
 		"Description": [
 			"The"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "oyb"
 	},
 	{
 		"Type": "language",
@@ -55253,7 +55382,9 @@
 		"Description": [
 			"Southwestern Tamang"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "taj"
 	},
 	{
 		"Type": "language",
@@ -56117,6 +56248,14 @@
 			"Ikpeng"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "txj",
+		"Description": [
+			"Tarjumo"
+		],
+		"Added": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -57015,7 +57154,9 @@
 		"Description": [
 			"Uokha"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "ema"
 	},
 	{
 		"Type": "language",
@@ -57452,7 +57593,10 @@
 		"Type": "language",
 		"Subtag": "vaj",
 		"Description": [
-			"Vasekela Bushman"
+			"Sekele",
+			"Northwestern !Kung",
+			"Northwestern ǃKung",
+			"Vasekele"
 		],
 		"Added": "2009-07-29"
 	},
@@ -61794,7 +61938,9 @@
 		"Description": [
 			"Subi"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "suj"
 	},
 	{
 		"Type": "language",
@@ -62830,7 +62976,8 @@
 		"Description": [
 			"Yiddish Sign Language"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -63540,7 +63687,9 @@
 		"Description": [
 			"Mator-Taygi-Karagas"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12",
+		"Preferred-Value": "mtm"
 	},
 	{
 		"Type": "language",
@@ -63596,7 +63745,8 @@
 		"Description": [
 			"Yangho"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2015-02-12"
 	},
 	{
 		"Type": "language",
@@ -67166,6 +67316,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "iks",
+		"Description": [
+			"Inuit Sign Language"
+		],
+		"Added": "2015-02-12",
+		"Preferred-Value": "iks",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "ils",
 		"Description": [
 			"International Sign"
@@ -68682,7 +68844,7 @@
 			"Yiddish Sign Language"
 		],
 		"Added": "2009-07-29",
-		"Preferred-Value": "yds",
+		"Deprecated": "2015-02-12",
 		"Prefix": [
 			"sgn"
 		]
