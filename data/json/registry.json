@@ -19625,7 +19625,8 @@
 		"Type": "language",
 		"Subtag": "gnk",
 		"Description": [
-			"//Gana"
+			"//Gana",
+			"ǁGana"
 		],
 		"Added": "2009-07-29"
 	},
@@ -20620,7 +20621,8 @@
 		"Type": "language",
 		"Subtag": "gwj",
 		"Description": [
-			"/Gwi"
+			"/Gwi",
+			"ǀGwi"
 		],
 		"Added": "2009-07-29"
 	},
@@ -21139,7 +21141,8 @@
 		"Type": "language",
 		"Subtag": "hgm",
 		"Description": [
-			"Hai//om"
+			"Hai//om",
+			"Haiǁom"
 		],
 		"Added": "2009-07-29"
 	},
@@ -21657,7 +21660,8 @@
 		"Type": "language",
 		"Subtag": "hnh",
 		"Description": [
-			"//Ani"
+			"//Ani",
+			"ǁAni"
 		],
 		"Added": "2009-07-29"
 	},
@@ -22095,7 +22099,8 @@
 		"Type": "language",
 		"Subtag": "huc",
 		"Description": [
-			"=/Hua"
+			"=/Hua",
+			"ǂHua"
 		],
 		"Added": "2009-07-29"
 	},
@@ -28870,7 +28875,8 @@
 		"Type": "language",
 		"Subtag": "ktz",
 		"Description": [
-			"Ju/'hoan"
+			"Ju/'hoan",
+			"Juǀʼhoan"
 		],
 		"Added": "2009-07-29"
 	},
@@ -39141,7 +39147,8 @@
 		"Type": "language",
 		"Subtag": "ngh",
 		"Description": [
-			"N/u"
+			"N/u",
+			"Nǀu"
 		],
 		"Added": "2009-07-29"
 	},
@@ -40272,7 +40279,8 @@
 		"Type": "language",
 		"Subtag": "nmn",
 		"Description": [
-			"!Xóõ"
+			"!Xóõ",
+			"ǃXóõ"
 		],
 		"Added": "2009-07-29"
 	},
@@ -60170,7 +60178,8 @@
 		"Type": "language",
 		"Subtag": "xam",
 		"Description": [
-			"/Xam"
+			"/Xam",
+			"ǀXam"
 		],
 		"Added": "2009-07-29"
 	},
@@ -60571,7 +60580,8 @@
 		"Type": "language",
 		"Subtag": "xeg",
 		"Description": [
-			"//Xegwi"
+			"//Xegwi",
+			"ǁXegwi"
 		],
 		"Added": "2009-07-29"
 	},
@@ -73795,7 +73805,11 @@
 		"Description": [
 			"Gaulish"
 		],
-		"Added": "2001-05-25"
+		"Added": "2001-05-25",
+		"Deprecated": "2015-03-29",
+		"Comments": [
+			"see xcg, xga, xtg"
+		]
 	},
 	{
 		"Type": "grandfathered",
@@ -73839,7 +73853,8 @@
 		"Description": [
 			"Enochian"
 		],
-		"Added": "2002-07-03"
+		"Added": "2002-07-03",
+		"Deprecated": "2015-03-29"
 	},
 	{
 		"Type": "grandfathered",
@@ -74006,7 +74021,10 @@
 			"Min, Fuzhou, Hokkien, Amoy, or Taiwanese"
 		],
 		"Added": "1999-12-18",
-		"Deprecated": "2009-07-29"
+		"Deprecated": "2009-07-29",
+		"Comments": [
+			"see cdo, cpx, czo, mnp, nan"
+		]
 	},
 	{
 		"Type": "grandfathered",
