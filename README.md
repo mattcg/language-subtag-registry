@@ -1,6 +1,6 @@
 # IANA Language Tags #
 
-[![Open Data](http://assets.okfn.org/images/ok_buttons/od_80x15_blue.png)](http://opendefinition.org/)
+[![Open Data](https://assets.okfn.org/images/ok_buttons/od_80x15_blue.png)](http://opendefinition.org/)
 
 IANA's [official repository](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry) is in [record-jar](http://www.inter-locale.com/ID/draft-phillips-record-jar-01.html) format and is hard to parse. This project provides neatly organized JSON files representing that data.
 
@@ -20,7 +20,7 @@ See [language-tags](https://github.com/mattcg/language-tags) for a Javascript AP
 
 ## Credits and collaboration ##
 
-Update scripts copyright (c) 2013, [Matthew Caruana Galizia](http://twitter.com/mcaruanagalizia) and licensed under and [MIT license](http://mattcg.mit-license.org/).
+Update scripts copyright (c) 2013, [Matthew Caruana Galizia](https://twitter.com/mcaruanagalizia) and licensed under and [MIT license](http://mattcg.mit-license.org/).
 
 The JSON database is licensed an [Open Data Commons Attribution License (ODC-BY)](http://opendatacommons.org/licenses/by/1.0/).
 
