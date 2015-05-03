@@ -73460,6 +73460,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "oxendict",
+		"Description": [
+			"Oxford English Dictionary spelling"
+		],
+		"Added": "2015-04-17",
+		"Prefix": [
+			"en"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "pamaka",
 		"Description": [
 			"Pamaka dialect"
@@ -73817,7 +73828,9 @@
 		"Description": [
 			"English, Oxford English Dictionary spelling"
 		],
-		"Added": "2003-07-09"
+		"Added": "2003-07-09",
+		"Deprecated": "2015-04-17",
+		"Preferred-Value": "en-GB-oxendict"
 	},
 	{
 		"Type": "grandfathered",
