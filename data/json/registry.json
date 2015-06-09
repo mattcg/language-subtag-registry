@@ -4247,7 +4247,7 @@
 		"Type": "language",
 		"Subtag": "aot",
 		"Description": [
-			"Atong",
+			"Atong (India)",
 			"A'tong"
 		],
 		"Added": "2009-07-29"
@@ -5074,7 +5074,7 @@
 		"Type": "language",
 		"Subtag": "ato",
 		"Description": [
-			"Atong"
+			"Atong (Cameroon)"
 		],
 		"Added": "2009-07-29"
 	},
@@ -24540,6 +24540,14 @@
 			"Wojenaka"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "jog",
+		"Description": [
+			"Jogi"
+		],
+		"Added": "2015-05-27"
 	},
 	{
 		"Type": "language",
@@ -63196,6 +63204,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "yhs",
+		"Description": [
+			"Yan-nhaŋu Sign Language"
+		],
+		"Added": "2015-04-17"
+	},
+	{
+		"Type": "language",
 		"Subtag": "yia",
 		"Description": [
 			"Yinggarda"
@@ -68873,6 +68889,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "yhs",
+		"Description": [
+			"Yan-nhaŋu Sign Language"
+		],
+		"Added": "2015-04-17",
+		"Preferred-Value": "yhs",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "ysl",
 		"Description": [
 			"Yugoslavian Sign Language"
@@ -72938,6 +72966,22 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "abl1943",
+		"Description": [
+			"Orthographic formulation of 1943 - Official in Brazil",
+			"(Formulário Ortográfico de 1943 - Oficial no Brasil)"
+		],
+		"Added": "2015-05-06",
+		"Prefix": [
+			"pt-BR"
+		],
+		"Comments": [
+			"Denotes conventions established by the Academia Brasileira de",
+			"Letras in 1943 and generally used in Brazil until 2009"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "alalc97",
 		"Description": [
 			"ALA-LC Romanization, 1997 edition"
@@ -72964,6 +73008,23 @@
 		"Comments": [
 			"Aluku dialect of the \"Busi Nenge Tongo\" English-based Creole",
 			"continuum in Eastern Suriname and Western French Guiana"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "ao1990",
+		"Description": [
+			"Portuguese Language Orthographic Agreement of 1990 (Acordo",
+			"Ortográfico da Língua Portuguesa de 1990)"
+		],
+		"Added": "2015-05-06",
+		"Prefix": [
+			"pt",
+			"gl"
+		],
+		"Comments": [
+			"Portuguese orthography conventions established in 1990 but",
+			"not brought into effect until 2009"
 		]
 	},
 	{
@@ -73111,6 +73172,23 @@
 		],
 		"Comments": [
 			"Jargon embedded in American English"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "colb1945",
+		"Description": [
+			"Portuguese-Brazilian Orthographic Convention of 1945",
+			"(Convenção Ortográfica Luso-Brasileira de 1945)"
+		],
+		"Added": "2015-05-06",
+		"Prefix": [
+			"pt"
+		],
+		"Comments": [
+			"Portuguese orthography conventions established in 1945,",
+			"generally in effect until 2009. This reform was not ratified in",
+			"Brazil."
 		]
 	},
 	{
