@@ -69103,6 +69103,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Bhks",
+		"Description": [
+			"Bhaiksuki"
+		],
+		"Added": "2015-07-24"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Blis",
 		"Description": [
 			"Blissymbols"
@@ -69636,6 +69644,14 @@
 			"Latin"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Leke",
+		"Description": [
+			"Leke"
+		],
+		"Added": "2015-07-24"
 	},
 	{
 		"Type": "script",

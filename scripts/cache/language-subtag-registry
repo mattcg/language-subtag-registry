@@ -1,4 +1,4 @@
-File-Date: 2015-06-08
+File-Date: 2015-08-04
 %%
 Type: language
 Subtag: aa
@@ -43525,6 +43525,11 @@ Description: Bengali
 Added: 2005-10-16
 %%
 Type: script
+Subtag: Bhks
+Description: Bhaiksuki
+Added: 2015-07-24
+%%
+Type: script
 Subtag: Blis
 Description: Blissymbols
 Added: 2005-10-16
@@ -43864,6 +43869,11 @@ Type: script
 Subtag: Latn
 Description: Latin
 Added: 2005-10-16
+%%
+Type: script
+Subtag: Leke
+Description: Leke
+Added: 2015-07-24
 %%
 Type: script
 Subtag: Lepc
