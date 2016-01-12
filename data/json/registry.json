@@ -69875,6 +69875,17 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Newa",
+		"Description": [
+			"Newa",
+			"Newar",
+			"Newari",
+			"Nepāla lipi"
+		],
+		"Added": "2016-01-04"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Nkgb",
 		"Description": [
 			"Nakhi Geba",
@@ -70015,6 +70026,14 @@
 			"Phoenician"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Piqd",
+		"Description": [
+			"Klingon (KLI pIqaD)"
+		],
+		"Added": "2016-01-04"
 	},
 	{
 		"Type": "script",
@@ -70416,6 +70435,14 @@
 			"Mathematical notation"
 		],
 		"Added": "2007-12-05"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Zsye",
+		"Description": [
+			"Symbols (Emoji variant)"
+		],
+		"Added": "2016-01-04"
 	},
 	{
 		"Type": "script",
@@ -73124,6 +73151,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "basiceng",
+		"Description": [
+			"Basic English"
+		],
+		"Added": "2015-12-29",
+		"Prefix": [
+			"en"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "bauddha",
 		"Description": [
 			"Buddhist Hybrid Sanskrit"
@@ -73205,6 +73243,19 @@
 			"Portuguese orthography conventions established in 1945,",
 			"generally in effect until 2009. This reform was not ratified in",
 			"Brazil."
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "cornu",
+		"Description": [
+			"Cornu-English",
+			"Cornish English",
+			"Anglo-Cornish"
+		],
+		"Added": "2015-12-07",
+		"Prefix": [
+			"en"
 		]
 	},
 	{
@@ -73505,6 +73556,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "newfound",
+		"Description": [
+			"Newfoundland English"
+		],
+		"Added": "2015-11-25",
+		"Prefix": [
+			"en-CA"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "njiva",
 		"Description": [
 			"The Gniva dialect of Resian",
@@ -73696,6 +73758,14 @@
 		"Comments": [
 			"English Liverpudlian dialect known as 'Scouse'"
 		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "simple",
+		"Description": [
+			"Simplified form"
+		],
+		"Added": "2015-12-29"
 	},
 	{
 		"Type": "variant",

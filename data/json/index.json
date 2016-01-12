@@ -1,70 +1,70 @@
 {
 	"142": {
-		"region": 8793
-	},
-	"143": {
-		"region": 8794
-	},
-	"145": {
-		"region": 8795
-	},
-	"150": {
 		"region": 8796
 	},
-	"151": {
+	"143": {
 		"region": 8797
 	},
-	"154": {
+	"145": {
 		"region": 8798
 	},
-	"155": {
+	"150": {
 		"region": 8799
 	},
-	"419": {
+	"151": {
 		"region": 8800
 	},
+	"154": {
+		"region": 8801
+	},
+	"155": {
+		"region": 8802
+	},
+	"419": {
+		"region": 8803
+	},
 	"1901": {
-		"variant": 8803
+		"variant": 8806
 	},
 	"1994": {
-		"variant": 8805
+		"variant": 8808
 	},
 	"1996": {
-		"variant": 8806
+		"variant": 8809
 	},
 	"aa": {
 		"language": 0,
-		"region": 8500
+		"region": 8503
 	},
 	"ab": {
 		"language": 1
 	},
 	"ae": {
 		"language": 2,
-		"region": 8503
+		"region": 8506
 	},
 	"af": {
 		"language": 3,
-		"region": 8504
+		"region": 8507
 	},
 	"ak": {
 		"language": 4
 	},
 	"am": {
 		"language": 5,
-		"region": 8508
+		"region": 8511
 	},
 	"an": {
 		"language": 6,
-		"region": 8509
+		"region": 8512
 	},
 	"ar": {
 		"language": 7,
-		"region": 8512
+		"region": 8515
 	},
 	"as": {
 		"language": 8,
-		"region": 8513
+		"region": 8516
 	},
 	"av": {
 		"language": 9
@@ -74,100 +74,100 @@
 	},
 	"az": {
 		"language": 11,
-		"region": 8518
+		"region": 8521
 	},
 	"ba": {
 		"language": 12,
-		"region": 8519
+		"region": 8522
 	},
 	"be": {
 		"language": 13,
-		"region": 8522
+		"region": 8525
 	},
 	"bg": {
 		"language": 14,
-		"region": 8524
+		"region": 8527
 	},
 	"bh": {
 		"language": 15,
-		"region": 8525
+		"region": 8528
 	},
 	"bi": {
 		"language": 16,
-		"region": 8526
+		"region": 8529
 	},
 	"bm": {
 		"language": 17,
-		"region": 8529
+		"region": 8532
 	},
 	"bn": {
 		"language": 18,
-		"region": 8530
+		"region": 8533
 	},
 	"bo": {
 		"language": 19,
-		"region": 8531
+		"region": 8534
 	},
 	"br": {
 		"language": 20,
-		"region": 8533
+		"region": 8536
 	},
 	"bs": {
 		"language": 21,
-		"region": 8534
+		"region": 8537
 	},
 	"ca": {
 		"language": 22,
-		"region": 8541
+		"region": 8544
 	},
 	"ce": {
 		"language": 23
 	},
 	"ch": {
 		"language": 24,
-		"region": 8546
+		"region": 8549
 	},
 	"co": {
 		"language": 25,
-		"region": 8552
+		"region": 8555
 	},
 	"cr": {
 		"language": 26,
-		"region": 8554
+		"region": 8557
 	},
 	"cs": {
 		"language": 27,
-		"region": 8555
+		"region": 8558
 	},
 	"cu": {
 		"language": 28,
-		"region": 8556
+		"region": 8559
 	},
 	"cv": {
 		"language": 29,
-		"region": 8557
+		"region": 8560
 	},
 	"cy": {
 		"language": 30,
-		"region": 8560
+		"region": 8563
 	},
 	"da": {
 		"language": 31
 	},
 	"de": {
 		"language": 32,
-		"region": 8563
+		"region": 8566
 	},
 	"dv": {
 		"language": 33
 	},
 	"dz": {
 		"language": 34,
-		"region": 8569
+		"region": 8572
 	},
 	"ee": {
 		"language": 35,
-		"region": 8572
+		"region": 8575
 	},
 	"el": {
 		"language": 36
@@ -180,15 +180,15 @@
 	},
 	"es": {
 		"language": 39,
-		"region": 8576
+		"region": 8579
 	},
 	"et": {
 		"language": 40,
-		"region": 8577
+		"region": 8580
 	},
 	"eu": {
 		"language": 41,
-		"region": 8578
+		"region": 8581
 	},
 	"fa": {
 		"language": 42
@@ -198,42 +198,42 @@
 	},
 	"fi": {
 		"language": 44,
-		"region": 8579
+		"region": 8582
 	},
 	"fj": {
 		"language": 45,
-		"region": 8580
+		"region": 8583
 	},
 	"fo": {
 		"language": 46,
-		"region": 8583
+		"region": 8586
 	},
 	"fr": {
 		"language": 47,
-		"region": 8584
+		"region": 8587
 	},
 	"fy": {
 		"language": 48
 	},
 	"ga": {
 		"language": 49,
-		"region": 8586
+		"region": 8589
 	},
 	"gd": {
 		"language": 50,
-		"region": 8588
+		"region": 8591
 	},
 	"gl": {
 		"language": 51,
-		"region": 8594
+		"region": 8597
 	},
 	"gn": {
 		"language": 52,
-		"region": 8596
+		"region": 8599
 	},
 	"gu": {
 		"language": 53,
-		"region": 8602
+		"region": 8605
 	},
 	"gv": {
 		"language": 54
@@ -252,15 +252,15 @@
 	},
 	"hr": {
 		"language": 59,
-		"region": 8608
+		"region": 8611
 	},
 	"ht": {
 		"language": 60,
-		"region": 8609
+		"region": 8612
 	},
 	"hu": {
 		"language": 61,
-		"region": 8610
+		"region": 8613
 	},
 	"hy": {
 		"language": 62
@@ -273,11 +273,11 @@
 	},
 	"id": {
 		"language": 65,
-		"region": 8612
+		"region": 8615
 	},
 	"ie": {
 		"language": 66,
-		"region": 8613
+		"region": 8616
 	},
 	"ig": {
 		"language": 67
@@ -290,19 +290,19 @@
 	},
 	"in": {
 		"language": 70,
-		"region": 8616
+		"region": 8619
 	},
 	"io": {
 		"language": 71,
-		"region": 8617
+		"region": 8620
 	},
 	"is": {
 		"language": 72,
-		"region": 8620
+		"region": 8623
 	},
 	"it": {
 		"language": 73,
-		"region": 8621
+		"region": 8624
 	},
 	"iu": {
 		"language": 74
@@ -327,11 +327,11 @@
 	},
 	"kg": {
 		"language": 81,
-		"region": 8627
+		"region": 8630
 	},
 	"ki": {
 		"language": 82,
-		"region": 8629
+		"region": 8632
 	},
 	"kj": {
 		"language": 83
@@ -344,18 +344,18 @@
 	},
 	"km": {
 		"language": 86,
-		"region": 8630
+		"region": 8633
 	},
 	"kn": {
 		"language": 87,
-		"region": 8631
+		"region": 8634
 	},
 	"ko": {
 		"language": 88
 	},
 	"kr": {
 		"language": 89,
-		"region": 8633
+		"region": 8636
 	},
 	"ks": {
 		"language": 90
@@ -368,26 +368,26 @@
 	},
 	"kw": {
 		"language": 93,
-		"region": 8634
+		"region": 8637
 	},
 	"ky": {
 		"language": 94,
-		"region": 8635
+		"region": 8638
 	},
 	"la": {
 		"language": 95,
-		"region": 8637
+		"region": 8640
 	},
 	"lb": {
 		"language": 96,
-		"region": 8638
+		"region": 8641
 	},
 	"lg": {
 		"language": 97
 	},
 	"li": {
 		"language": 98,
-		"region": 8640
+		"region": 8643
 	},
 	"ln": {
 		"language": 99
@@ -397,62 +397,62 @@
 	},
 	"lt": {
 		"language": 101,
-		"region": 8644
+		"region": 8647
 	},
 	"lu": {
 		"language": 102,
-		"region": 8645
+		"region": 8648
 	},
 	"lv": {
 		"language": 103,
-		"region": 8646
+		"region": 8649
 	},
 	"mg": {
 		"language": 104,
-		"region": 8653
+		"region": 8656
 	},
 	"mh": {
 		"language": 105,
-		"region": 8654
+		"region": 8657
 	},
 	"mi": {
 		"language": 106
 	},
 	"mk": {
 		"language": 107,
-		"region": 8655
+		"region": 8658
 	},
 	"ml": {
 		"language": 108,
-		"region": 8656
+		"region": 8659
 	},
 	"mn": {
 		"language": 109,
-		"region": 8658
+		"region": 8661
 	},
 	"mo": {
 		"language": 110,
-		"region": 8659
+		"region": 8662
 	},
 	"mr": {
 		"language": 111,
-		"region": 8662
+		"region": 8665
 	},
 	"ms": {
 		"language": 112,
-		"region": 8663
+		"region": 8666
 	},
 	"mt": {
 		"language": 113,
-		"region": 8664
+		"region": 8667
 	},
 	"my": {
 		"language": 114,
-		"region": 8669
+		"region": 8672
 	},
 	"na": {
 		"language": 115,
-		"region": 8671
+		"region": 8674
 	},
 	"nb": {
 		"language": 116
@@ -462,26 +462,26 @@
 	},
 	"ne": {
 		"language": 118,
-		"region": 8673
+		"region": 8676
 	},
 	"ng": {
 		"language": 119,
-		"region": 8675
+		"region": 8678
 	},
 	"nl": {
 		"language": 120,
-		"region": 8677
+		"region": 8680
 	},
 	"nn": {
 		"language": 121
 	},
 	"no": {
 		"language": 122,
-		"region": 8678
+		"region": 8681
 	},
 	"nr": {
 		"language": 123,
-		"region": 8680
+		"region": 8683
 	},
 	"nv": {
 		"language": 124
@@ -497,7 +497,7 @@
 	},
 	"om": {
 		"language": 128,
-		"region": 8684
+		"region": 8687
 	},
 	"or": {
 		"language": 129
@@ -507,22 +507,22 @@
 	},
 	"pa": {
 		"language": 131,
-		"region": 8685
+		"region": 8688
 	},
 	"pi": {
 		"language": 132
 	},
 	"pl": {
 		"language": 133,
-		"region": 8691
+		"region": 8694
 	},
 	"ps": {
 		"language": 134,
-		"region": 8695
+		"region": 8698
 	},
 	"pt": {
 		"language": 135,
-		"region": 8696
+		"region": 8699
 	},
 	"qu": {
 		"language": 136
@@ -535,145 +535,145 @@
 	},
 	"ro": {
 		"language": 139,
-		"region": 8702
+		"region": 8705
 	},
 	"ru": {
 		"language": 140,
-		"region": 8704
+		"region": 8707
 	},
 	"rw": {
 		"language": 141,
-		"region": 8705
+		"region": 8708
 	},
 	"sa": {
 		"language": 142,
-		"region": 8706
+		"region": 8709
 	},
 	"sc": {
 		"language": 143,
-		"region": 8708
+		"region": 8711
 	},
 	"sd": {
 		"language": 144,
-		"region": 8709
+		"region": 8712
 	},
 	"se": {
 		"language": 145,
-		"region": 8710
+		"region": 8713
 	},
 	"sg": {
 		"language": 146,
-		"region": 8711
+		"region": 8714
 	},
 	"sh": {
 		"language": 147,
-		"region": 8712
+		"region": 8715
 	},
 	"si": {
 		"language": 148,
-		"region": 8713
+		"region": 8716
 	},
 	"sk": {
 		"language": 149,
-		"region": 8715
+		"region": 8718
 	},
 	"sl": {
 		"language": 150,
-		"region": 8716
+		"region": 8719
 	},
 	"sm": {
 		"language": 151,
-		"region": 8717
+		"region": 8720
 	},
 	"sn": {
 		"language": 152,
-		"region": 8718
+		"region": 8721
 	},
 	"so": {
 		"language": 153,
-		"region": 8719
+		"region": 8722
 	},
 	"sq": {
 		"language": 154
 	},
 	"sr": {
 		"language": 155,
-		"region": 8720
+		"region": 8723
 	},
 	"ss": {
 		"language": 156,
-		"region": 8721
+		"region": 8724
 	},
 	"st": {
 		"language": 157,
-		"region": 8722
+		"region": 8725
 	},
 	"su": {
 		"language": 158,
-		"region": 8723
+		"region": 8726
 	},
 	"sv": {
 		"language": 159,
-		"region": 8724
+		"region": 8727
 	},
 	"sw": {
 		"language": 160
 	},
 	"ta": {
 		"language": 161,
-		"region": 8728
+		"region": 8731
 	},
 	"te": {
 		"language": 162
 	},
 	"tg": {
 		"language": 163,
-		"region": 8732
+		"region": 8735
 	},
 	"th": {
 		"language": 164,
-		"region": 8733
+		"region": 8736
 	},
 	"ti": {
 		"language": 165
 	},
 	"tk": {
 		"language": 166,
-		"region": 8735
+		"region": 8738
 	},
 	"tl": {
 		"language": 167,
-		"region": 8736
+		"region": 8739
 	},
 	"tn": {
 		"language": 168,
-		"region": 8738
+		"region": 8741
 	},
 	"to": {
 		"language": 169,
-		"region": 8739
+		"region": 8742
 	},
 	"tr": {
 		"language": 170,
-		"region": 8741
+		"region": 8744
 	},
 	"ts": {
 		"language": 171
 	},
 	"tt": {
 		"language": 172,
-		"region": 8742
+		"region": 8745
 	},
 	"tw": {
 		"language": 173,
-		"region": 8744
+		"region": 8747
 	},
 	"ty": {
 		"language": 174
 	},
 	"ug": {
 		"language": 175,
-		"region": 8747
+		"region": 8750
 	},
 	"uk": {
 		"language": 176
@@ -683,15 +683,15 @@
 	},
 	"uz": {
 		"language": 178,
-		"region": 8751
+		"region": 8754
 	},
 	"ve": {
 		"language": 179,
-		"region": 8754
+		"region": 8757
 	},
 	"vi": {
 		"language": 180,
-		"region": 8756
+		"region": 8759
 	},
 	"vo": {
 		"language": 181
@@ -713,7 +713,7 @@
 	},
 	"za": {
 		"language": 187,
-		"region": 8766
+		"region": 8769
 	},
 	"zh": {
 		"language": 188
@@ -24984,1219 +24984,1240 @@
 	"nbat": {
 		"script": 8430
 	},
-	"nkgb": {
+	"newa": {
 		"script": 8431
 	},
-	"nkoo": {
+	"nkgb": {
 		"script": 8432
 	},
-	"nshu": {
+	"nkoo": {
 		"script": 8433
 	},
-	"ogam": {
+	"nshu": {
 		"script": 8434
 	},
-	"olck": {
+	"ogam": {
 		"script": 8435
 	},
-	"orkh": {
+	"olck": {
 		"script": 8436
 	},
-	"orya": {
+	"orkh": {
 		"script": 8437
 	},
-	"osge": {
+	"orya": {
 		"script": 8438
 	},
-	"osma": {
+	"osge": {
 		"script": 8439
 	},
-	"palm": {
+	"osma": {
 		"script": 8440
 	},
-	"pauc": {
+	"palm": {
 		"script": 8441
 	},
-	"perm": {
+	"pauc": {
 		"script": 8442
 	},
-	"phag": {
+	"perm": {
 		"script": 8443
 	},
-	"phli": {
+	"phag": {
 		"script": 8444
 	},
-	"phlp": {
+	"phli": {
 		"script": 8445
 	},
-	"phlv": {
+	"phlp": {
 		"script": 8446
 	},
-	"phnx": {
+	"phlv": {
 		"script": 8447
 	},
-	"plrd": {
+	"phnx": {
 		"script": 8448
 	},
-	"prti": {
+	"piqd": {
 		"script": 8449
 	},
-	"qaaa..qabx": {
+	"plrd": {
 		"script": 8450
 	},
-	"rjng": {
+	"prti": {
 		"script": 8451
 	},
-	"roro": {
+	"qaaa..qabx": {
 		"script": 8452
 	},
-	"runr": {
+	"rjng": {
 		"script": 8453
 	},
-	"samr": {
+	"roro": {
 		"script": 8454
 	},
-	"sara": {
+	"runr": {
 		"script": 8455
 	},
-	"sarb": {
+	"samr": {
 		"script": 8456
 	},
-	"saur": {
+	"sara": {
 		"script": 8457
 	},
-	"sgnw": {
+	"sarb": {
 		"script": 8458
 	},
-	"shaw": {
+	"saur": {
 		"script": 8459
 	},
-	"shrd": {
+	"sgnw": {
 		"script": 8460
 	},
-	"sidd": {
+	"shaw": {
 		"script": 8461
 	},
-	"sind": {
+	"shrd": {
 		"script": 8462
 	},
-	"sinh": {
+	"sidd": {
 		"script": 8463
 	},
-	"sora": {
+	"sind": {
 		"script": 8464
 	},
-	"sund": {
+	"sinh": {
 		"script": 8465
 	},
-	"sylo": {
+	"sora": {
 		"script": 8466
 	},
-	"syrc": {
+	"sund": {
 		"script": 8467
 	},
-	"syre": {
+	"sylo": {
 		"script": 8468
 	},
-	"syrj": {
+	"syrc": {
 		"script": 8469
 	},
-	"syrn": {
+	"syre": {
 		"script": 8470
 	},
-	"tagb": {
+	"syrj": {
 		"script": 8471
 	},
-	"takr": {
+	"syrn": {
 		"script": 8472
 	},
-	"tale": {
+	"tagb": {
 		"script": 8473
 	},
-	"talu": {
+	"takr": {
 		"script": 8474
 	},
-	"taml": {
+	"tale": {
 		"script": 8475
 	},
-	"tang": {
+	"talu": {
 		"script": 8476
 	},
-	"tavt": {
+	"taml": {
 		"script": 8477
 	},
-	"telu": {
+	"tang": {
 		"script": 8478
 	},
-	"teng": {
+	"tavt": {
 		"script": 8479
 	},
-	"tfng": {
+	"telu": {
 		"script": 8480
 	},
-	"tglg": {
+	"teng": {
 		"script": 8481
 	},
-	"thaa": {
+	"tfng": {
 		"script": 8482
 	},
-	"thai": {
+	"tglg": {
 		"script": 8483
 	},
-	"tibt": {
+	"thaa": {
 		"script": 8484
 	},
-	"tirh": {
+	"thai": {
 		"script": 8485
 	},
-	"ugar": {
+	"tibt": {
 		"script": 8486
 	},
-	"vaii": {
+	"tirh": {
 		"script": 8487
 	},
-	"visp": {
+	"ugar": {
 		"script": 8488
 	},
-	"wara": {
+	"vaii": {
 		"script": 8489
 	},
-	"wole": {
+	"visp": {
 		"script": 8490
 	},
-	"xpeo": {
+	"wara": {
 		"script": 8491
 	},
-	"xsux": {
+	"wole": {
 		"script": 8492
 	},
-	"yiii": {
+	"xpeo": {
 		"script": 8493
 	},
-	"zinh": {
+	"xsux": {
 		"script": 8494
 	},
-	"zmth": {
+	"yiii": {
 		"script": 8495
 	},
-	"zsym": {
+	"zinh": {
 		"script": 8496
 	},
-	"zxxx": {
+	"zmth": {
 		"script": 8497
 	},
-	"zyyy": {
+	"zsye": {
 		"script": 8498
 	},
-	"zzzz": {
+	"zsym": {
 		"script": 8499
 	},
+	"zxxx": {
+		"script": 8500
+	},
+	"zyyy": {
+		"script": 8501
+	},
+	"zzzz": {
+		"script": 8502
+	},
 	"ac": {
-		"region": 8501
+		"region": 8504
 	},
 	"ad": {
-		"region": 8502
-	},
-	"ag": {
 		"region": 8505
 	},
+	"ag": {
+		"region": 8508
+	},
 	"ai": {
-		"region": 8506
+		"region": 8509
 	},
 	"al": {
-		"region": 8507
-	},
-	"ao": {
 		"region": 8510
 	},
-	"aq": {
-		"region": 8511
+	"ao": {
+		"region": 8513
 	},
-	"at": {
+	"aq": {
 		"region": 8514
 	},
-	"au": {
-		"region": 8515
-	},
-	"aw": {
-		"region": 8516
-	},
-	"ax": {
+	"at": {
 		"region": 8517
 	},
-	"bb": {
+	"au": {
+		"region": 8518
+	},
+	"aw": {
+		"region": 8519
+	},
+	"ax": {
 		"region": 8520
 	},
-	"bd": {
-		"region": 8521
-	},
-	"bf": {
+	"bb": {
 		"region": 8523
 	},
+	"bd": {
+		"region": 8524
+	},
+	"bf": {
+		"region": 8526
+	},
 	"bj": {
-		"region": 8527
+		"region": 8530
 	},
 	"bl": {
-		"region": 8528
+		"region": 8531
 	},
 	"bq": {
-		"region": 8532
-	},
-	"bt": {
 		"region": 8535
 	},
-	"bu": {
-		"region": 8536
-	},
-	"bv": {
-		"region": 8537
-	},
-	"bw": {
+	"bt": {
 		"region": 8538
 	},
-	"by": {
+	"bu": {
 		"region": 8539
 	},
-	"bz": {
+	"bv": {
 		"region": 8540
 	},
-	"cc": {
+	"bw": {
+		"region": 8541
+	},
+	"by": {
 		"region": 8542
 	},
-	"cd": {
+	"bz": {
 		"region": 8543
 	},
-	"cf": {
-		"region": 8544
-	},
-	"cg": {
+	"cc": {
 		"region": 8545
 	},
-	"ci": {
+	"cd": {
+		"region": 8546
+	},
+	"cf": {
 		"region": 8547
 	},
-	"ck": {
+	"cg": {
 		"region": 8548
 	},
-	"cl": {
-		"region": 8549
-	},
-	"cm": {
+	"ci": {
 		"region": 8550
 	},
-	"cn": {
+	"ck": {
 		"region": 8551
 	},
-	"cp": {
+	"cl": {
+		"region": 8552
+	},
+	"cm": {
 		"region": 8553
 	},
+	"cn": {
+		"region": 8554
+	},
+	"cp": {
+		"region": 8556
+	},
 	"cw": {
-		"region": 8558
-	},
-	"cx": {
-		"region": 8559
-	},
-	"cz": {
 		"region": 8561
 	},
-	"dd": {
+	"cx": {
 		"region": 8562
 	},
-	"dg": {
+	"cz": {
 		"region": 8564
 	},
-	"dj": {
+	"dd": {
 		"region": 8565
 	},
-	"dk": {
-		"region": 8566
-	},
-	"dm": {
+	"dg": {
 		"region": 8567
 	},
-	"do": {
+	"dj": {
 		"region": 8568
 	},
-	"ea": {
+	"dk": {
+		"region": 8569
+	},
+	"dm": {
 		"region": 8570
 	},
-	"ec": {
+	"do": {
 		"region": 8571
 	},
-	"eg": {
+	"ea": {
 		"region": 8573
 	},
-	"eh": {
+	"ec": {
 		"region": 8574
 	},
+	"eg": {
+		"region": 8576
+	},
+	"eh": {
+		"region": 8577
+	},
 	"er": {
-		"region": 8575
+		"region": 8578
 	},
 	"fk": {
-		"region": 8581
+		"region": 8584
 	},
 	"fm": {
-		"region": 8582
-	},
-	"fx": {
 		"region": 8585
 	},
+	"fx": {
+		"region": 8588
+	},
 	"gb": {
-		"region": 8587
-	},
-	"ge": {
-		"region": 8589
-	},
-	"gf": {
 		"region": 8590
 	},
-	"gg": {
-		"region": 8591
-	},
-	"gh": {
+	"ge": {
 		"region": 8592
 	},
-	"gi": {
+	"gf": {
 		"region": 8593
 	},
-	"gm": {
+	"gg": {
+		"region": 8594
+	},
+	"gh": {
 		"region": 8595
 	},
-	"gp": {
-		"region": 8597
+	"gi": {
+		"region": 8596
 	},
-	"gq": {
+	"gm": {
 		"region": 8598
 	},
-	"gr": {
-		"region": 8599
-	},
-	"gs": {
+	"gp": {
 		"region": 8600
 	},
-	"gt": {
+	"gq": {
 		"region": 8601
 	},
-	"gw": {
+	"gr": {
+		"region": 8602
+	},
+	"gs": {
 		"region": 8603
 	},
-	"gy": {
+	"gt": {
 		"region": 8604
 	},
-	"hk": {
-		"region": 8605
-	},
-	"hm": {
+	"gw": {
 		"region": 8606
 	},
-	"hn": {
+	"gy": {
 		"region": 8607
 	},
-	"ic": {
-		"region": 8611
+	"hk": {
+		"region": 8608
 	},
-	"il": {
+	"hm": {
+		"region": 8609
+	},
+	"hn": {
+		"region": 8610
+	},
+	"ic": {
 		"region": 8614
 	},
-	"im": {
-		"region": 8615
+	"il": {
+		"region": 8617
 	},
-	"iq": {
+	"im": {
 		"region": 8618
 	},
-	"ir": {
-		"region": 8619
+	"iq": {
+		"region": 8621
 	},
-	"je": {
+	"ir": {
 		"region": 8622
 	},
-	"jm": {
-		"region": 8623
-	},
-	"jo": {
-		"region": 8624
-	},
-	"jp": {
+	"je": {
 		"region": 8625
 	},
-	"ke": {
+	"jm": {
 		"region": 8626
 	},
-	"kh": {
+	"jo": {
+		"region": 8627
+	},
+	"jp": {
 		"region": 8628
 	},
+	"ke": {
+		"region": 8629
+	},
+	"kh": {
+		"region": 8631
+	},
 	"kp": {
-		"region": 8632
+		"region": 8635
 	},
 	"kz": {
-		"region": 8636
-	},
-	"lc": {
 		"region": 8639
 	},
-	"lk": {
-		"region": 8641
-	},
-	"lr": {
+	"lc": {
 		"region": 8642
 	},
+	"lk": {
+		"region": 8644
+	},
+	"lr": {
+		"region": 8645
+	},
 	"ls": {
-		"region": 8643
+		"region": 8646
 	},
 	"ly": {
-		"region": 8647
-	},
-	"ma": {
-		"region": 8648
-	},
-	"mc": {
-		"region": 8649
-	},
-	"md": {
 		"region": 8650
 	},
-	"me": {
+	"ma": {
 		"region": 8651
 	},
-	"mf": {
+	"mc": {
 		"region": 8652
 	},
-	"mm": {
-		"region": 8657
+	"md": {
+		"region": 8653
 	},
-	"mp": {
+	"me": {
+		"region": 8654
+	},
+	"mf": {
+		"region": 8655
+	},
+	"mm": {
 		"region": 8660
 	},
+	"mp": {
+		"region": 8663
+	},
 	"mq": {
-		"region": 8661
+		"region": 8664
 	},
 	"mu": {
-		"region": 8665
-	},
-	"mv": {
-		"region": 8666
-	},
-	"mw": {
-		"region": 8667
-	},
-	"mx": {
 		"region": 8668
 	},
-	"mz": {
+	"mv": {
+		"region": 8669
+	},
+	"mw": {
 		"region": 8670
 	},
+	"mx": {
+		"region": 8671
+	},
+	"mz": {
+		"region": 8673
+	},
 	"nc": {
-		"region": 8672
+		"region": 8675
 	},
 	"nf": {
-		"region": 8674
+		"region": 8677
 	},
 	"ni": {
-		"region": 8676
-	},
-	"np": {
 		"region": 8679
 	},
-	"nt": {
-		"region": 8681
-	},
-	"nu": {
+	"np": {
 		"region": 8682
 	},
-	"nz": {
-		"region": 8683
+	"nt": {
+		"region": 8684
 	},
-	"pe": {
+	"nu": {
+		"region": 8685
+	},
+	"nz": {
 		"region": 8686
 	},
-	"pf": {
-		"region": 8687
-	},
-	"pg": {
-		"region": 8688
-	},
-	"ph": {
+	"pe": {
 		"region": 8689
 	},
-	"pk": {
+	"pf": {
 		"region": 8690
 	},
-	"pm": {
+	"pg": {
+		"region": 8691
+	},
+	"ph": {
 		"region": 8692
 	},
-	"pn": {
+	"pk": {
 		"region": 8693
 	},
-	"pr": {
-		"region": 8694
+	"pm": {
+		"region": 8695
 	},
-	"pw": {
+	"pn": {
+		"region": 8696
+	},
+	"pr": {
 		"region": 8697
 	},
-	"py": {
-		"region": 8698
-	},
-	"qa": {
-		"region": 8699
-	},
-	"qm..qz": {
+	"pw": {
 		"region": 8700
 	},
-	"re": {
+	"py": {
 		"region": 8701
 	},
-	"rs": {
+	"qa": {
+		"region": 8702
+	},
+	"qm..qz": {
 		"region": 8703
 	},
+	"re": {
+		"region": 8704
+	},
+	"rs": {
+		"region": 8706
+	},
 	"sb": {
-		"region": 8707
+		"region": 8710
 	},
 	"sj": {
-		"region": 8714
+		"region": 8717
 	},
 	"sx": {
-		"region": 8725
+		"region": 8728
 	},
 	"sy": {
-		"region": 8726
-	},
-	"sz": {
-		"region": 8727
-	},
-	"tc": {
 		"region": 8729
 	},
-	"td": {
+	"sz": {
 		"region": 8730
 	},
-	"tf": {
-		"region": 8731
+	"tc": {
+		"region": 8732
 	},
-	"tj": {
+	"td": {
+		"region": 8733
+	},
+	"tf": {
 		"region": 8734
 	},
-	"tm": {
+	"tj": {
 		"region": 8737
 	},
-	"tp": {
+	"tm": {
 		"region": 8740
 	},
-	"tv": {
+	"tp": {
 		"region": 8743
 	},
-	"tz": {
-		"region": 8745
-	},
-	"ua": {
+	"tv": {
 		"region": 8746
 	},
-	"um": {
+	"tz": {
 		"region": 8748
 	},
-	"us": {
+	"ua": {
 		"region": 8749
 	},
-	"uy": {
-		"region": 8750
+	"um": {
+		"region": 8751
 	},
-	"va": {
+	"us": {
 		"region": 8752
 	},
-	"vc": {
+	"uy": {
 		"region": 8753
 	},
-	"vg": {
+	"va": {
 		"region": 8755
 	},
-	"vn": {
-		"region": 8757
+	"vc": {
+		"region": 8756
 	},
-	"vu": {
+	"vg": {
 		"region": 8758
 	},
-	"wf": {
-		"region": 8759
-	},
-	"ws": {
+	"vn": {
 		"region": 8760
 	},
-	"xa..xz": {
+	"vu": {
 		"region": 8761
 	},
-	"yd": {
+	"wf": {
 		"region": 8762
 	},
-	"ye": {
+	"ws": {
 		"region": 8763
 	},
-	"yt": {
+	"xa..xz": {
 		"region": 8764
 	},
-	"yu": {
+	"yd": {
 		"region": 8765
 	},
-	"zm": {
+	"ye": {
+		"region": 8766
+	},
+	"yt": {
 		"region": 8767
 	},
-	"zr": {
+	"yu": {
 		"region": 8768
 	},
-	"zw": {
-		"region": 8769
-	},
-	"zz": {
+	"zm": {
 		"region": 8770
 	},
-	"001": {
+	"zr": {
 		"region": 8771
 	},
-	"002": {
+	"zw": {
 		"region": 8772
 	},
-	"003": {
+	"zz": {
 		"region": 8773
 	},
-	"005": {
+	"001": {
 		"region": 8774
 	},
-	"009": {
+	"002": {
 		"region": 8775
 	},
-	"011": {
+	"003": {
 		"region": 8776
 	},
-	"013": {
+	"005": {
 		"region": 8777
 	},
-	"014": {
+	"009": {
 		"region": 8778
 	},
-	"015": {
+	"011": {
 		"region": 8779
 	},
-	"017": {
+	"013": {
 		"region": 8780
 	},
-	"018": {
+	"014": {
 		"region": 8781
 	},
-	"019": {
+	"015": {
 		"region": 8782
 	},
-	"021": {
+	"017": {
 		"region": 8783
 	},
-	"029": {
+	"018": {
 		"region": 8784
 	},
-	"030": {
+	"019": {
 		"region": 8785
 	},
-	"034": {
+	"021": {
 		"region": 8786
 	},
-	"035": {
+	"029": {
 		"region": 8787
 	},
-	"039": {
+	"030": {
 		"region": 8788
 	},
-	"053": {
+	"034": {
 		"region": 8789
 	},
-	"054": {
+	"035": {
 		"region": 8790
 	},
-	"057": {
+	"039": {
 		"region": 8791
 	},
-	"061": {
+	"053": {
 		"region": 8792
 	},
+	"054": {
+		"region": 8793
+	},
+	"057": {
+		"region": 8794
+	},
+	"061": {
+		"region": 8795
+	},
 	"1606nict": {
-		"variant": 8801
-	},
-	"1694acad": {
-		"variant": 8802
-	},
-	"1959acad": {
 		"variant": 8804
 	},
-	"abl1943": {
+	"1694acad": {
+		"variant": 8805
+	},
+	"1959acad": {
 		"variant": 8807
 	},
-	"alalc97": {
-		"variant": 8808
-	},
-	"aluku": {
-		"variant": 8809
-	},
-	"ao1990": {
+	"abl1943": {
 		"variant": 8810
 	},
-	"arevela": {
+	"alalc97": {
 		"variant": 8811
 	},
-	"arevmda": {
+	"aluku": {
 		"variant": 8812
 	},
-	"baku1926": {
+	"ao1990": {
 		"variant": 8813
 	},
-	"balanka": {
+	"arevela": {
 		"variant": 8814
 	},
-	"barla": {
+	"arevmda": {
 		"variant": 8815
 	},
-	"bauddha": {
+	"baku1926": {
 		"variant": 8816
 	},
-	"biscayan": {
+	"balanka": {
 		"variant": 8817
 	},
-	"biske": {
+	"barla": {
 		"variant": 8818
 	},
-	"bohoric": {
+	"basiceng": {
 		"variant": 8819
 	},
-	"boont": {
+	"bauddha": {
 		"variant": 8820
 	},
-	"colb1945": {
+	"biscayan": {
 		"variant": 8821
 	},
-	"dajnko": {
+	"biske": {
 		"variant": 8822
 	},
-	"ekavsk": {
+	"bohoric": {
 		"variant": 8823
 	},
-	"emodeng": {
+	"boont": {
 		"variant": 8824
 	},
-	"fonipa": {
+	"colb1945": {
 		"variant": 8825
 	},
-	"fonupa": {
+	"cornu": {
 		"variant": 8826
 	},
-	"fonxsamp": {
+	"dajnko": {
 		"variant": 8827
 	},
-	"hepburn": {
+	"ekavsk": {
 		"variant": 8828
 	},
-	"heploc": {
+	"emodeng": {
 		"variant": 8829
 	},
-	"hognorsk": {
+	"fonipa": {
 		"variant": 8830
 	},
-	"ijekavsk": {
+	"fonupa": {
 		"variant": 8831
 	},
-	"itihasa": {
+	"fonxsamp": {
 		"variant": 8832
 	},
-	"jauer": {
+	"hepburn": {
 		"variant": 8833
 	},
-	"jyutping": {
+	"heploc": {
 		"variant": 8834
 	},
-	"kkcor": {
+	"hognorsk": {
 		"variant": 8835
 	},
-	"kociewie": {
+	"ijekavsk": {
 		"variant": 8836
 	},
-	"kscor": {
+	"itihasa": {
 		"variant": 8837
 	},
-	"laukika": {
+	"jauer": {
 		"variant": 8838
 	},
-	"lipaw": {
+	"jyutping": {
 		"variant": 8839
 	},
-	"luna1918": {
+	"kkcor": {
 		"variant": 8840
 	},
-	"metelko": {
+	"kociewie": {
 		"variant": 8841
 	},
-	"monoton": {
+	"kscor": {
 		"variant": 8842
 	},
-	"ndyuka": {
+	"laukika": {
 		"variant": 8843
 	},
-	"nedis": {
+	"lipaw": {
 		"variant": 8844
 	},
-	"njiva": {
+	"luna1918": {
 		"variant": 8845
 	},
-	"nulik": {
+	"metelko": {
 		"variant": 8846
 	},
-	"osojs": {
+	"monoton": {
 		"variant": 8847
 	},
-	"oxendict": {
+	"ndyuka": {
 		"variant": 8848
 	},
-	"pamaka": {
+	"nedis": {
 		"variant": 8849
 	},
-	"petr1708": {
+	"newfound": {
 		"variant": 8850
 	},
-	"pinyin": {
+	"njiva": {
 		"variant": 8851
 	},
-	"polyton": {
+	"nulik": {
 		"variant": 8852
 	},
-	"puter": {
+	"osojs": {
 		"variant": 8853
 	},
-	"rigik": {
+	"oxendict": {
 		"variant": 8854
 	},
-	"rozaj": {
+	"pamaka": {
 		"variant": 8855
 	},
-	"rumgr": {
+	"petr1708": {
 		"variant": 8856
 	},
-	"scotland": {
+	"pinyin": {
 		"variant": 8857
 	},
-	"scouse": {
+	"polyton": {
 		"variant": 8858
 	},
-	"solba": {
+	"puter": {
 		"variant": 8859
 	},
-	"sotav": {
+	"rigik": {
 		"variant": 8860
 	},
-	"surmiran": {
+	"rozaj": {
 		"variant": 8861
 	},
-	"sursilv": {
+	"rumgr": {
 		"variant": 8862
 	},
-	"sutsilv": {
+	"scotland": {
 		"variant": 8863
 	},
-	"tarask": {
+	"scouse": {
 		"variant": 8864
 	},
-	"uccor": {
+	"simple": {
 		"variant": 8865
 	},
-	"ucrcor": {
+	"solba": {
 		"variant": 8866
 	},
-	"ulster": {
+	"sotav": {
 		"variant": 8867
 	},
-	"unifon": {
+	"surmiran": {
 		"variant": 8868
 	},
-	"vaidika": {
+	"sursilv": {
 		"variant": 8869
 	},
-	"valencia": {
+	"sutsilv": {
 		"variant": 8870
 	},
-	"vallader": {
+	"tarask": {
 		"variant": 8871
 	},
-	"wadegile": {
+	"uccor": {
 		"variant": 8872
 	},
+	"ucrcor": {
+		"variant": 8873
+	},
+	"ulster": {
+		"variant": 8874
+	},
+	"unifon": {
+		"variant": 8875
+	},
+	"vaidika": {
+		"variant": 8876
+	},
+	"valencia": {
+		"variant": 8877
+	},
+	"vallader": {
+		"variant": 8878
+	},
+	"wadegile": {
+		"variant": 8879
+	},
 	"art-lojban": {
-		"grandfathered": 8873
-	},
-	"cel-gaulish": {
-		"grandfathered": 8874
-	},
-	"en-gb-oed": {
-		"grandfathered": 8875
-	},
-	"i-ami": {
-		"grandfathered": 8876
-	},
-	"i-bnn": {
-		"grandfathered": 8877
-	},
-	"i-default": {
-		"grandfathered": 8878
-	},
-	"i-enochian": {
-		"grandfathered": 8879
-	},
-	"i-hak": {
 		"grandfathered": 8880
 	},
-	"i-klingon": {
+	"cel-gaulish": {
 		"grandfathered": 8881
 	},
-	"i-lux": {
+	"en-gb-oed": {
 		"grandfathered": 8882
 	},
-	"i-mingo": {
+	"i-ami": {
 		"grandfathered": 8883
 	},
-	"i-navajo": {
+	"i-bnn": {
 		"grandfathered": 8884
 	},
-	"i-pwn": {
+	"i-default": {
 		"grandfathered": 8885
 	},
-	"i-tao": {
+	"i-enochian": {
 		"grandfathered": 8886
 	},
-	"i-tay": {
+	"i-hak": {
 		"grandfathered": 8887
 	},
-	"i-tsu": {
+	"i-klingon": {
 		"grandfathered": 8888
 	},
-	"no-bok": {
+	"i-lux": {
 		"grandfathered": 8889
 	},
-	"no-nyn": {
+	"i-mingo": {
 		"grandfathered": 8890
 	},
-	"sgn-be-fr": {
+	"i-navajo": {
 		"grandfathered": 8891
 	},
-	"sgn-be-nl": {
+	"i-pwn": {
 		"grandfathered": 8892
 	},
-	"sgn-ch-de": {
+	"i-tao": {
 		"grandfathered": 8893
 	},
-	"zh-guoyu": {
+	"i-tay": {
 		"grandfathered": 8894
 	},
-	"zh-hakka": {
+	"i-tsu": {
 		"grandfathered": 8895
 	},
-	"zh-min": {
+	"no-bok": {
 		"grandfathered": 8896
 	},
-	"zh-min-nan": {
+	"no-nyn": {
 		"grandfathered": 8897
 	},
-	"zh-xiang": {
+	"sgn-be-fr": {
 		"grandfathered": 8898
 	},
+	"sgn-be-nl": {
+		"grandfathered": 8899
+	},
+	"sgn-ch-de": {
+		"grandfathered": 8900
+	},
+	"zh-guoyu": {
+		"grandfathered": 8901
+	},
+	"zh-hakka": {
+		"grandfathered": 8902
+	},
+	"zh-min": {
+		"grandfathered": 8903
+	},
+	"zh-min-nan": {
+		"grandfathered": 8904
+	},
+	"zh-xiang": {
+		"grandfathered": 8905
+	},
 	"az-arab": {
-		"redundant": 8899
-	},
-	"az-cyrl": {
-		"redundant": 8900
-	},
-	"az-latn": {
-		"redundant": 8901
-	},
-	"be-latn": {
-		"redundant": 8902
-	},
-	"bs-cyrl": {
-		"redundant": 8903
-	},
-	"bs-latn": {
-		"redundant": 8904
-	},
-	"de-1901": {
-		"redundant": 8905
-	},
-	"de-1996": {
 		"redundant": 8906
 	},
-	"de-at-1901": {
+	"az-cyrl": {
 		"redundant": 8907
 	},
-	"de-at-1996": {
+	"az-latn": {
 		"redundant": 8908
 	},
-	"de-ch-1901": {
+	"be-latn": {
 		"redundant": 8909
 	},
-	"de-ch-1996": {
+	"bs-cyrl": {
 		"redundant": 8910
 	},
-	"de-de-1901": {
+	"bs-latn": {
 		"redundant": 8911
 	},
-	"de-de-1996": {
+	"de-1901": {
 		"redundant": 8912
 	},
-	"en-boont": {
+	"de-1996": {
 		"redundant": 8913
 	},
-	"en-scouse": {
+	"de-at-1901": {
 		"redundant": 8914
 	},
-	"es-419": {
+	"de-at-1996": {
 		"redundant": 8915
 	},
-	"iu-cans": {
+	"de-ch-1901": {
 		"redundant": 8916
 	},
-	"iu-latn": {
+	"de-ch-1996": {
 		"redundant": 8917
 	},
-	"mn-cyrl": {
+	"de-de-1901": {
 		"redundant": 8918
 	},
-	"mn-mong": {
+	"de-de-1996": {
 		"redundant": 8919
 	},
-	"sgn-br": {
+	"en-boont": {
 		"redundant": 8920
 	},
-	"sgn-co": {
+	"en-scouse": {
 		"redundant": 8921
 	},
-	"sgn-de": {
+	"es-419": {
 		"redundant": 8922
 	},
-	"sgn-dk": {
+	"iu-cans": {
 		"redundant": 8923
 	},
-	"sgn-es": {
+	"iu-latn": {
 		"redundant": 8924
 	},
-	"sgn-fr": {
+	"mn-cyrl": {
 		"redundant": 8925
 	},
-	"sgn-gb": {
+	"mn-mong": {
 		"redundant": 8926
 	},
-	"sgn-gr": {
+	"sgn-br": {
 		"redundant": 8927
 	},
-	"sgn-ie": {
+	"sgn-co": {
 		"redundant": 8928
 	},
-	"sgn-it": {
+	"sgn-de": {
 		"redundant": 8929
 	},
-	"sgn-jp": {
+	"sgn-dk": {
 		"redundant": 8930
 	},
-	"sgn-mx": {
+	"sgn-es": {
 		"redundant": 8931
 	},
-	"sgn-ni": {
+	"sgn-fr": {
 		"redundant": 8932
 	},
-	"sgn-nl": {
+	"sgn-gb": {
 		"redundant": 8933
 	},
-	"sgn-no": {
+	"sgn-gr": {
 		"redundant": 8934
 	},
-	"sgn-pt": {
+	"sgn-ie": {
 		"redundant": 8935
 	},
-	"sgn-se": {
+	"sgn-it": {
 		"redundant": 8936
 	},
-	"sgn-us": {
+	"sgn-jp": {
 		"redundant": 8937
 	},
-	"sgn-za": {
+	"sgn-mx": {
 		"redundant": 8938
 	},
-	"sl-nedis": {
+	"sgn-ni": {
 		"redundant": 8939
 	},
-	"sl-rozaj": {
+	"sgn-nl": {
 		"redundant": 8940
 	},
-	"sr-cyrl": {
+	"sgn-no": {
 		"redundant": 8941
 	},
-	"sr-latn": {
+	"sgn-pt": {
 		"redundant": 8942
 	},
-	"tg-arab": {
+	"sgn-se": {
 		"redundant": 8943
 	},
-	"tg-cyrl": {
+	"sgn-us": {
 		"redundant": 8944
 	},
-	"uz-cyrl": {
+	"sgn-za": {
 		"redundant": 8945
 	},
-	"uz-latn": {
+	"sl-nedis": {
 		"redundant": 8946
 	},
-	"yi-latn": {
+	"sl-rozaj": {
 		"redundant": 8947
 	},
-	"zh-cmn": {
+	"sr-cyrl": {
 		"redundant": 8948
 	},
-	"zh-cmn-hans": {
+	"sr-latn": {
 		"redundant": 8949
 	},
-	"zh-cmn-hant": {
+	"tg-arab": {
 		"redundant": 8950
 	},
-	"zh-gan": {
+	"tg-cyrl": {
 		"redundant": 8951
 	},
-	"zh-hans": {
+	"uz-cyrl": {
 		"redundant": 8952
 	},
-	"zh-hans-cn": {
+	"uz-latn": {
 		"redundant": 8953
 	},
-	"zh-hans-hk": {
+	"yi-latn": {
 		"redundant": 8954
 	},
-	"zh-hans-mo": {
+	"zh-cmn": {
 		"redundant": 8955
 	},
-	"zh-hans-sg": {
+	"zh-cmn-hans": {
 		"redundant": 8956
 	},
-	"zh-hans-tw": {
+	"zh-cmn-hant": {
 		"redundant": 8957
 	},
-	"zh-hant": {
+	"zh-gan": {
 		"redundant": 8958
 	},
-	"zh-hant-cn": {
+	"zh-hans": {
 		"redundant": 8959
 	},
-	"zh-hant-hk": {
+	"zh-hans-cn": {
 		"redundant": 8960
 	},
-	"zh-hant-mo": {
+	"zh-hans-hk": {
 		"redundant": 8961
 	},
-	"zh-hant-sg": {
+	"zh-hans-mo": {
 		"redundant": 8962
 	},
-	"zh-hant-tw": {
+	"zh-hans-sg": {
 		"redundant": 8963
 	},
-	"zh-wuu": {
+	"zh-hans-tw": {
 		"redundant": 8964
 	},
-	"zh-yue": {
+	"zh-hant": {
 		"redundant": 8965
+	},
+	"zh-hant-cn": {
+		"redundant": 8966
+	},
+	"zh-hant-hk": {
+		"redundant": 8967
+	},
+	"zh-hant-mo": {
+		"redundant": 8968
+	},
+	"zh-hant-sg": {
+		"redundant": 8969
+	},
+	"zh-hant-tw": {
+		"redundant": 8970
+	},
+	"zh-wuu": {
+		"redundant": 8971
+	},
+	"zh-yue": {
+		"redundant": 8972
 	}
 }
