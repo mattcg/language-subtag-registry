@@ -1181,7 +1181,8 @@
 		"Type": "language",
 		"Subtag": "or",
 		"Description": [
-			"Oriya (macrolanguage)"
+			"Oriya (macrolanguage)",
+			"Odia (macrolanguage)"
 		],
 		"Added": "2005-10-16",
 		"Suppress-Script": "Orya",
@@ -6408,7 +6409,7 @@
 		"Type": "language",
 		"Subtag": "bcg",
 		"Description": [
-			"Baga Binari"
+			"Baga Pokur"
 		],
 		"Added": "2009-07-29"
 	},
@@ -7257,7 +7258,9 @@
 		"Description": [
 			"Baga Mboteni"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "bcg"
 	},
 	{
 		"Type": "language",
@@ -9868,7 +9871,8 @@
 		"Description": [
 			"Bhatola"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -11436,7 +11440,8 @@
 		"Description": [
 			"Chipiajes"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -11452,7 +11457,8 @@
 		"Description": [
 			"Cagua"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -12707,6 +12713,7 @@
 		"Type": "language",
 		"Subtag": "cnh",
 		"Description": [
+			"Hakha Chin",
 			"Haka Chin"
 		],
 		"Added": "2009-07-29"
@@ -12959,7 +12966,9 @@
 		"Description": [
 			"Coyaima"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "pij"
 	},
 	{
 		"Type": "language",
@@ -13101,6 +13110,8 @@
 			"Chilean Quechua"
 		],
 		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "quh",
 		"Macrolanguage": "qu"
 	},
 	{
@@ -13699,7 +13710,8 @@
 		"Description": [
 			"Cumeral"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -14686,6 +14698,7 @@
 		"Type": "language",
 		"Subtag": "dhg",
 		"Description": [
+			"Dhangu-Djangu",
 			"Dhangu",
 			"Djangu"
 		],
@@ -15906,6 +15919,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "dtn",
+		"Description": [
+			"Daatsʼíin"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "dto",
 		"Description": [
 			"Tommo So Dogon"
@@ -15916,6 +15937,7 @@
 		"Type": "language",
 		"Subtag": "dtp",
 		"Description": [
+			"Kadazan Dusun",
 			"Central Dusun"
 		],
 		"Added": "2009-07-29"
@@ -16041,7 +16063,11 @@
 		"Description": [
 			"Dhuwal"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Comments": [
+			"see dwu, dwy"
+		]
 	},
 	{
 		"Type": "language",
@@ -16160,7 +16186,7 @@
 		"Type": "language",
 		"Subtag": "duz",
 		"Description": [
-			"Duli"
+			"Duli-Gey"
 		],
 		"Added": "2009-07-29"
 	},
@@ -16210,11 +16236,27 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "dwu",
+		"Description": [
+			"Dhuwal"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "dww",
 		"Description": [
 			"Dawawa"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "dwy",
+		"Description": [
+			"Dhuwaya"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -17064,6 +17106,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "esg",
+		"Description": [
+			"Aheri Gondi"
+		],
+		"Added": "2016-05-30",
+		"Macrolanguage": "gon"
+	},
+	{
+		"Type": "language",
 		"Subtag": "esh",
 		"Description": [
 			"Eshtehardi"
@@ -17688,6 +17739,14 @@
 			"Far Western Muria"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "fnb",
+		"Description": [
+			"Fanbak"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -18771,7 +18830,7 @@
 		"Type": "language",
 		"Subtag": "gek",
 		"Description": [
-			"Yiwom"
+			"Ywom"
 		],
 		"Added": "2009-07-29"
 	},
@@ -18936,7 +18995,9 @@
 		"Description": [
 			"Eastern Gurung"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "gvr"
 	},
 	{
 		"Type": "language",
@@ -18945,7 +19006,10 @@
 			"Southern Gondi"
 		],
 		"Added": "2009-07-29",
-		"Macrolanguage": "gon"
+		"Deprecated": "2016-05-30",
+		"Comments": [
+			"see esg, wsg"
+		]
 	},
 	{
 		"Type": "language",
@@ -19268,6 +19332,14 @@
 			"Gonja"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "gjr",
+		"Description": [
+			"Gurindji Kriol"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -20187,6 +20259,7 @@
 		"Type": "language",
 		"Subtag": "gsn",
 		"Description": [
+			"Nema",
 			"Gusan"
 		],
 		"Added": "2009-07-29"
@@ -20422,7 +20495,9 @@
 		"Description": [
 			"Gey"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "duz"
 	},
 	{
 		"Type": "language",
@@ -20533,7 +20608,7 @@
 		"Type": "language",
 		"Subtag": "gvr",
 		"Description": [
-			"Western Gurung"
+			"Gurung"
 		],
 		"Added": "2009-07-29"
 	},
@@ -22386,7 +22461,8 @@
 		"Description": [
 			"Iapama"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -22997,7 +23073,19 @@
 		"Description": [
 			"Iranun"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Comments": [
+			"see ilm, ilp"
+		]
+	},
+	{
+		"Type": "language",
+		"Subtag": "ilm",
+		"Description": [
+			"Iranun (Malaysia)"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -23006,6 +23094,14 @@
 			"Iloko"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "language",
+		"Subtag": "ilp",
+		"Description": [
+			"Iranun (Philippines)"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -23502,6 +23598,14 @@
 		],
 		"Added": "2009-07-29",
 		"Scope": "collection"
+	},
+	{
+		"Type": "language",
+		"Subtag": "itd",
+		"Description": [
+			"Southern Tidung"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -24327,6 +24431,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "jka",
+		"Description": [
+			"Kaera"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "jkm",
 		"Description": [
 			"Mobwa Karen"
@@ -24933,6 +25045,7 @@
 		"Type": "language",
 		"Subtag": "kak",
 		"Description": [
+			"Kalanguya",
 			"Kayapa Kallahan"
 		],
 		"Added": "2009-07-29"
@@ -25976,7 +26089,8 @@
 		"Type": "language",
 		"Subtag": "kfr",
 		"Description": [
-			"Kachchi"
+			"Kachhi",
+			"Kutchi"
 		],
 		"Added": "2009-07-29"
 	},
@@ -26066,7 +26180,9 @@
 		"Description": [
 			"Kasseng"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "tdf"
 	},
 	{
 		"Type": "language",
@@ -27836,7 +27952,8 @@
 		"Description": [
 			"Coxima"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -28821,7 +28938,9 @@
 		"Description": [
 			"Kota Marudu Tinagas"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "dtp"
 	},
 	{
 		"Type": "language",
@@ -29232,7 +29351,9 @@
 		"Description": [
 			"Kunggara"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "gdj"
 	},
 	{
 		"Type": "language",
@@ -29999,7 +30120,9 @@
 		"Description": [
 			"Coastal Kadazan"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "dtp"
 	},
 	{
 		"Type": "language",
@@ -30079,7 +30202,9 @@
 		"Description": [
 			"Tambunan Dusun"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "dtp"
 	},
 	{
 		"Type": "language",
@@ -30520,7 +30645,8 @@
 		"Type": "language",
 		"Subtag": "lce",
 		"Description": [
-			"Loncong"
+			"Loncong",
+			"Sekak"
 		],
 		"Added": "2009-07-29",
 		"Macrolanguage": "ms"
@@ -32134,7 +32260,7 @@
 		"Type": "language",
 		"Subtag": "lou",
 		"Description": [
-			"Louisiana Creole French"
+			"Louisiana Creole"
 		],
 		"Added": "2009-07-29"
 	},
@@ -34677,6 +34803,14 @@
 		],
 		"Added": "2009-07-29",
 		"Deprecated": "2011-08-16"
+	},
+	{
+		"Type": "language",
+		"Subtag": "mjb",
+		"Description": [
+			"Makalero"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -38123,7 +38257,9 @@
 		"Description": [
 			"Nijadali"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "xny"
 	},
 	{
 		"Type": "language",
@@ -41261,6 +41397,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ntd",
+		"Description": [
+			"Northern Tidung"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "nte",
 		"Description": [
 			"Nathembo"
@@ -41337,7 +41481,9 @@
 		"Description": [
 			"Natagaimas"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "pij"
 	},
 	{
 		"Type": "language",
@@ -42623,6 +42769,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "olu",
+		"Description": [
+			"Kuvale"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "oma",
 		"Description": [
 			"Omaha-Ponca"
@@ -42651,7 +42805,8 @@
 		"Description": [
 			"Omejes"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -43102,6 +43257,7 @@
 		"Type": "language",
 		"Subtag": "ory",
 		"Description": [
+			"Odia (individual language)",
 			"Oriya (individual language)"
 		],
 		"Added": "2012-08-12",
@@ -44246,6 +44402,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "pgz",
+		"Description": [
+			"Papua New Guinean Sign Language"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "pha",
 		"Description": [
 			"Pa-Hng"
@@ -44883,7 +45047,9 @@
 		"Description": [
 			"Palumata"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "huw"
 	},
 	{
 		"Type": "language",
@@ -45262,7 +45428,8 @@
 		"Description": [
 			"Ponares"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -45415,7 +45582,9 @@
 		"Description": [
 			"Pao"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "bfy"
 	},
 	{
 		"Type": "language",
@@ -45744,7 +45913,9 @@
 		"Description": [
 			"Pray 3"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "prt"
 	},
 	{
 		"Type": "language",
@@ -47647,7 +47818,8 @@
 		"Description": [
 			"Runa"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -47882,6 +48054,14 @@
 			"Russian Sign Language"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "rsm",
+		"Description": [
+			"Miriwoong Sign Language"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -48125,6 +48305,14 @@
 			"Central Okinawan"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "rzh",
+		"Description": [
+			"Rāziḥī"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -51802,7 +51990,8 @@
 		"Description": [
 			"Savara"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -52993,6 +53182,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "tdm",
+		"Description": [
+			"Taruma"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "tdn",
 		"Description": [
 			"Tondano"
@@ -53045,7 +53242,9 @@
 		"Description": [
 			"Tempasuk Dusun"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "dtp"
 	},
 	{
 		"Type": "language",
@@ -53492,7 +53691,9 @@
 		"Description": [
 			"Tai Hang Tong"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "tpo"
 	},
 	{
 		"Type": "language",
@@ -53681,7 +53882,11 @@
 		"Description": [
 			"Tidong"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Comments": [
+			"see itd, ntd"
+		]
 	},
 	{
 		"Type": "language",
@@ -54246,6 +54451,7 @@
 		"Type": "language",
 		"Subtag": "tlt",
 		"Description": [
+			"Sou Nama",
 			"Teluti"
 		],
 		"Added": "2009-07-29"
@@ -54421,7 +54627,9 @@
 		"Description": [
 			"Tai Mène"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "tyj"
 	},
 	{
 		"Type": "language",
@@ -54534,7 +54742,9 @@
 		"Description": [
 			"Tinoc Kallahan"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "kak"
 	},
 	{
 		"Type": "language",
@@ -54694,7 +54904,7 @@
 		"Type": "language",
 		"Subtag": "tnz",
 		"Description": [
-			"Tonga (Thailand)"
+			"Ten'edn"
 		],
 		"Added": "2009-07-29"
 	},
@@ -54728,7 +54938,8 @@
 		"Description": [
 			"Tomedes"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -56390,7 +56601,8 @@
 		"Type": "language",
 		"Subtag": "tyj",
 		"Description": [
-			"Tai Do"
+			"Tai Do",
+			"Tai Yo"
 		],
 		"Added": "2009-07-29"
 	},
@@ -58893,6 +59105,7 @@
 		"Type": "language",
 		"Subtag": "wha",
 		"Description": [
+			"Sou Upaa",
 			"Manusela"
 		],
 		"Added": "2009-07-29"
@@ -59805,6 +60018,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "wsg",
+		"Description": [
+			"Adilabad Gondi"
+		],
+		"Added": "2016-05-30",
+		"Macrolanguage": "gon"
+	},
+	{
+		"Type": "language",
 		"Subtag": "wsi",
 		"Description": [
 			"Wusi"
@@ -60175,6 +60397,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "xak",
+		"Description": [
+			"Máku"
+		],
+		"Added": "2016-05-30"
+	},
+	{
+		"Type": "language",
 		"Subtag": "xal",
 		"Description": [
 			"Kalmyk",
@@ -60285,7 +60515,9 @@
 		"Description": [
 			"Kamba (Brazil)"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "cax"
 	},
 	{
 		"Type": "language",
@@ -60397,7 +60629,8 @@
 		"Description": [
 			"Kabixí"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -60868,7 +61101,8 @@
 		"Description": [
 			"Xipináwa"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -60980,7 +61214,9 @@
 		"Description": [
 			"Karahawyana"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30",
+		"Preferred-Value": "waw"
 	},
 	{
 		"Type": "language",
@@ -64031,7 +64267,8 @@
 		"Description": [
 			"Yarí"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -64064,6 +64301,14 @@
 			"Yerong"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "yro",
+		"Description": [
+			"Yaroamë"
+		],
+		"Added": "2016-05-30"
 	},
 	{
 		"Type": "language",
@@ -64581,6 +64826,7 @@
 		"Type": "language",
 		"Subtag": "zab",
 		"Description": [
+			"Western Tlacolula Valley Zapotec",
 			"San Juan Guelavía Zapotec"
 		],
 		"Added": "2009-07-29",
@@ -67614,7 +67860,8 @@
 		"Type": "extlang",
 		"Subtag": "lce",
 		"Description": [
-			"Loncong"
+			"Loncong",
+			"Sekak"
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "lce",
@@ -68149,6 +68396,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "pgz",
+		"Description": [
+			"Papua New Guinean Sign Language"
+		],
+		"Added": "2016-05-30",
+		"Preferred-Value": "pgz",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "pks",
 		"Description": [
 			"Pakistan Sign Language"
@@ -68325,6 +68584,18 @@
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "rsl",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "rsm",
+		"Description": [
+			"Miriwoong Sign Language"
+		],
+		"Added": "2016-05-30",
+		"Preferred-Value": "rsm",
 		"Prefix": [
 			"sgn"
 		]
