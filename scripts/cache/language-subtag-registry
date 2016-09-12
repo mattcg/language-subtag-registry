@@ -1,4 +1,4 @@
-File-Date: 2016-06-30
+File-Date: 2016-07-19
 %%
 Type: language
 Subtag: aa
@@ -45016,6 +45016,11 @@ Description: European Union
 Added: 2009-07-29
 %%
 Type: region
+Subtag: EZ
+Description: Eurozone
+Added: 2016-07-14
+%%
+Type: region
 Subtag: FI
 Description: Finland
 Added: 2005-10-16
@@ -45872,6 +45877,11 @@ Type: region
 Subtag: UM
 Description: United States Minor Outlying Islands
 Added: 2005-10-16
+%%
+Type: region
+Subtag: UN
+Description: United Nations
+Added: 2016-07-14
 %%
 Type: region
 Subtag: US

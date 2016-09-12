@@ -71419,6 +71419,14 @@
 	},
 	{
 		"Type": "region",
+		"Subtag": "EZ",
+		"Description": [
+			"Eurozone"
+		],
+		"Added": "2016-07-14"
+	},
+	{
+		"Type": "region",
 		"Subtag": "FI",
 		"Description": [
 			"Finland"
@@ -72786,6 +72794,14 @@
 			"United States Minor Outlying Islands"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "region",
+		"Subtag": "UN",
+		"Description": [
+			"United Nations"
+		],
+		"Added": "2016-07-14"
 	},
 	{
 		"Type": "region",
