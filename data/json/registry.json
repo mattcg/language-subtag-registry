@@ -160,7 +160,8 @@
 		"Type": "language",
 		"Subtag": "bn",
 		"Description": [
-			"Bengali"
+			"Bengali",
+			"Bangla"
 		],
 		"Added": "2005-10-16",
 		"Suppress-Script": "Beng"
@@ -8357,6 +8358,7 @@
 		"Type": "language",
 		"Subtag": "blv",
 		"Description": [
+			"Kibala",
 			"Bolo"
 		],
 		"Added": "2009-07-29"
@@ -8437,7 +8439,7 @@
 		"Type": "language",
 		"Subtag": "bmf",
 		"Description": [
-			"Bom"
+			"Bom-Kim"
 		],
 		"Added": "2009-07-29"
 	},
@@ -13658,6 +13660,7 @@
 		"Type": "language",
 		"Subtag": "cug",
 		"Description": [
+			"Chungmboko",
 			"Cung"
 		],
 		"Added": "2009-07-29"
@@ -19171,6 +19174,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "gie",
+		"Description": [
+			"Gaɓogbo",
+			"Guébie"
+		],
+		"Added": "2017-02-23"
+	},
+	{
+		"Type": "language",
 		"Subtag": "gig",
 		"Description": [
 			"Goaria"
@@ -22514,6 +22526,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ibh",
+		"Description": [
+			"Bih"
+		],
+		"Added": "2017-02-23"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ibi",
 		"Description": [
 			"Ibilo"
@@ -24169,7 +24189,9 @@
 		"Description": [
 			"Jeng"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23",
+		"Preferred-Value": "oyb"
 	},
 	{
 		"Type": "language",
@@ -26190,7 +26212,11 @@
 		"Description": [
 			"Kataang"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23",
+		"Comments": [
+			"see ncq, sct"
+		]
 	},
 	{
 		"Type": "language",
@@ -27347,6 +27373,7 @@
 		"Type": "language",
 		"Subtag": "klw",
 		"Description": [
+			"Tado",
 			"Lindu"
 		],
 		"Added": "2009-07-29"
@@ -28487,7 +28514,9 @@
 		"Description": [
 			"Krim"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23",
+		"Preferred-Value": "bmf"
 	},
 	{
 		"Type": "language",
@@ -28518,7 +28547,7 @@
 		"Type": "language",
 		"Subtag": "krr",
 		"Description": [
-			"Kru'ng 2"
+			"Krung"
 		],
 		"Added": "2009-07-29"
 	},
@@ -29003,7 +29032,8 @@
 		"Subtag": "ktz",
 		"Description": [
 			"Ju/'hoan",
-			"Juǀʼhoan"
+			"Juǀʼhoan",
+			"Juǀʼhoansi"
 		],
 		"Added": "2009-07-29"
 	},
@@ -31119,6 +31149,7 @@
 		"Type": "language",
 		"Subtag": "lgn",
 		"Description": [
+			"T'apo",
 			"Opuuo"
 		],
 		"Added": "2009-07-29"
@@ -32591,6 +32622,14 @@
 		],
 		"Added": "2010-03-11",
 		"Macrolanguage": "lv"
+	},
+	{
+		"Type": "language",
+		"Subtag": "lth",
+		"Description": [
+			"Thur"
+		],
+		"Added": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -38756,6 +38795,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ncq",
+		"Description": [
+			"Northern Katang"
+		],
+		"Added": "2017-02-23"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ncr",
 		"Description": [
 			"Ncane"
@@ -39389,6 +39436,7 @@
 		"Type": "language",
 		"Subtag": "ngt",
 		"Description": [
+			"Kriang",
 			"Ngeq"
 		],
 		"Added": "2009-07-29"
@@ -40998,6 +41046,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "npx",
+		"Description": [
+			"Noipx"
+		],
+		"Added": "2017-02-23"
+	},
+	{
+		"Type": "language",
 		"Subtag": "npy",
 		"Description": [
 			"Napu"
@@ -41019,6 +41075,14 @@
 			"Kura Ede Nago"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "nql",
+		"Description": [
+			"Ngendelengo"
+		],
+		"Added": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -43543,8 +43607,8 @@
 		"Type": "language",
 		"Subtag": "ovd",
 		"Description": [
-			"Övdalian",
-			"Elfdalian"
+			"Elfdalian",
+			"Övdalian"
 		],
 		"Added": "2016-06-16"
 	},
@@ -45751,7 +45815,8 @@
 		"Description": [
 			"Lua'"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -46272,7 +46337,8 @@
 		"Description": [
 			"Pu Ko"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -47471,7 +47537,8 @@
 		"Description": [
 			"Rien"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -48054,7 +48121,8 @@
 		"Description": [
 			"Rennellese Sign Language"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -48844,6 +48912,14 @@
 		],
 		"Added": "2009-07-29",
 		"Macrolanguage": "den"
+	},
+	{
+		"Type": "language",
+		"Subtag": "sct",
+		"Description": [
+			"Southern Katang"
+		],
+		"Added": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -50095,7 +50171,9 @@
 		"Description": [
 			"Sok"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23",
+		"Preferred-Value": "oyb"
 	},
 	{
 		"Type": "language",
@@ -50627,7 +50705,8 @@
 		"Description": [
 			"Shinabo"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -52495,6 +52574,14 @@
 			"Suabo"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "szs",
+		"Description": [
+			"Solomon Islands Sign Language"
+		],
+		"Added": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -57026,6 +57113,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ukk",
+		"Description": [
+			"Muak Sa-aak"
+		],
+		"Added": "2017-02-23"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ukl",
 		"Description": [
 			"Ukrainian Sign Language"
@@ -58823,6 +58918,14 @@
 		],
 		"Added": "2009-07-29",
 		"Macrolanguage": "raj"
+	},
+	{
+		"Type": "language",
+		"Subtag": "wbs",
+		"Description": [
+			"West Bengal Sign Language"
+		],
+		"Added": "2017-02-23"
 	},
 	{
 		"Type": "language",
@@ -60804,6 +60907,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "xdo",
+		"Description": [
+			"Kwandu"
+		],
+		"Added": "2017-02-23"
+	},
+	{
+		"Type": "language",
 		"Subtag": "xdy",
 		"Description": [
 			"Malayic Dayak"
@@ -62578,7 +62689,8 @@
 		"Type": "language",
 		"Subtag": "xuu",
 		"Description": [
-			"Kxoe"
+			"Kxoe",
+			"Khwedam"
 		],
 		"Added": "2009-07-29"
 	},
@@ -68580,7 +68692,7 @@
 			"Rennellese Sign Language"
 		],
 		"Added": "2009-07-29",
-		"Preferred-Value": "rsi",
+		"Deprecated": "2017-02-23",
 		"Prefix": [
 			"sgn"
 		]
@@ -68833,6 +68945,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "szs",
+		"Description": [
+			"Solomon Islands Sign Language"
+		],
+		"Added": "2017-02-23",
+		"Preferred-Value": "szs",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "tmw",
 		"Description": [
 			"Temuan"
@@ -69077,6 +69201,18 @@
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "vsv",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "wbs",
+		"Description": [
+			"West Bengal Sign Language"
+		],
+		"Added": "2017-02-23",
+		"Preferred-Value": "wbs",
 		"Prefix": [
 			"sgn"
 		]
@@ -69377,7 +69513,8 @@
 		"Type": "script",
 		"Subtag": "Beng",
 		"Description": [
-			"Bengali"
+			"Bengali",
+			"Bangla"
 		],
 		"Added": "2005-10-16"
 	},
@@ -69528,6 +69665,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Dogr",
+		"Description": [
+			"Dogra"
+		],
+		"Added": "2017-01-13"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Dsrt",
 		"Description": [
 			"Deseret",
@@ -69598,7 +69743,7 @@
 		"Type": "script",
 		"Subtag": "Geor",
 		"Description": [
-			"Georgian (Mkhedruli)"
+			"Georgian (Mkhedruli and Mtavruli)"
 		],
 		"Added": "2005-10-16"
 	},
@@ -69609,6 +69754,22 @@
 			"Glagolitic"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Gong",
+		"Description": [
+			"Gunjala Gondi"
+		],
+		"Added": "2017-01-13"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Gonm",
+		"Description": [
+			"Masaram Gondi"
+		],
+		"Added": "2017-01-13"
 	},
 	{
 		"Type": "script",
@@ -70025,6 +70186,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Maka",
+		"Description": [
+			"Makasar"
+		],
+		"Added": "2017-01-13"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Mand",
 		"Description": [
 			"Mandaic",
@@ -70055,6 +70224,16 @@
 			"Mayan hieroglyphs"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Medf",
+		"Description": [
+			"Medefaidrin",
+			"Oberi Okaime",
+			"Oberi Ɔkaimɛ"
+		],
+		"Added": "2017-01-13"
 	},
 	{
 		"Type": "script",
@@ -70239,7 +70418,8 @@
 		"Type": "script",
 		"Subtag": "Orya",
 		"Description": [
-			"Oriya"
+			"Oriya",
+			"Odia"
 		],
 		"Added": "2005-10-16"
 	},
@@ -70474,6 +70654,14 @@
 			"Sora Sompeng"
 		],
 		"Added": "2011-01-07"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Soyo",
+		"Description": [
+			"Soyombo"
+		],
+		"Added": "2017-01-13"
 	},
 	{
 		"Type": "script",
@@ -70712,6 +70900,17 @@
 			"Yi"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Zanb",
+		"Description": [
+			"Zanabazar Square",
+			"Zanabazarin Dörböljin Useg",
+			"Xewtee Dörböljin Bicig",
+			"Horizontal Square Script"
+		],
+		"Added": "2017-01-13"
 	},
 	{
 		"Type": "script",
@@ -73949,6 +74148,42 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "pahawh2",
+		"Description": [
+			"Pahawh Hmong Second Stage Reduced orthography"
+		],
+		"Added": "2017-01-13",
+		"Prefix": [
+			"mww",
+			"hnj"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "pahawh3",
+		"Description": [
+			"Pahawh Hmong Third Stage Reduced orthography"
+		],
+		"Added": "2017-01-13",
+		"Prefix": [
+			"mww",
+			"hnj"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "pahawh4",
+		"Description": [
+			"Pahawh Hmong Final Version orthography"
+		],
+		"Added": "2017-01-13",
+		"Prefix": [
+			"mww",
+			"hnj"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "pamaka",
 		"Description": [
 			"Pamaka dialect"
@@ -74119,6 +74354,21 @@
 			"Kabuverdianu."
 		],
 		"Added": "2013-12-10"
+	},
+	{
+		"Type": "variant",
+		"Subtag": "spanglis",
+		"Description": [
+			"Spanglish"
+		],
+		"Added": "2017-02-23",
+		"Prefix": [
+			"en",
+			"es"
+		],
+		"Comments": [
+			"A variety of contact dialects of English and Spanish"
+		]
 	},
 	{
 		"Type": "variant",
