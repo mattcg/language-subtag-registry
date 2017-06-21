@@ -73429,6 +73429,14 @@
 	},
 	{
 		"Type": "region",
+		"Subtag": "202",
+		"Description": [
+			"Sub-Saharan Africa"
+		],
+		"Added": "2017-04-18"
+	},
+	{
+		"Type": "region",
 		"Subtag": "419",
 		"Description": [
 			"Latin America and the Caribbean"
@@ -73567,6 +73575,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "akuapem",
+		"Description": [
+			"Akuapem Twi"
+		],
+		"Added": "2017-06-05",
+		"Prefix": [
+			"tw"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "ao1990",
 		"Description": [
 			"Portuguese Language Orthographic Agreement of 1990 (Acordo",
@@ -73602,6 +73621,18 @@
 		"Added": "2006-09-18",
 		"Prefix": [
 			"hy"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "asante",
+		"Description": [
+			"Asante Twi",
+			"Ashanti Twi"
+		],
+		"Added": "2017-06-05",
+		"Prefix": [
+			"tw"
 		]
 	},
 	{
@@ -73886,6 +73917,18 @@
 		"Comments": [
 			"Norwegian following Ivar Aasen's orthographical principles,",
 			"including modern usage."
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "hsistemo",
+		"Description": [
+			"Standard H-system orthographic fallback for spelling",
+			"Esperanto"
+		],
+		"Added": "2017-03-14",
+		"Prefix": [
+			"eo"
 		]
 	},
 	{
@@ -74534,6 +74577,18 @@
 		"Added": "2008-10-03",
 		"Prefix": [
 			"zh-Latn"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "xsistemo",
+		"Description": [
+			"Standard X-system orthographic fallback for spelling",
+			"Esperanto"
+		],
+		"Added": "2017-03-14",
+		"Prefix": [
+			"eo"
 		]
 	},
 	{
