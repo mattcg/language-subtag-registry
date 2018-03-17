@@ -1,7 +1,9 @@
 {
 	"name": "language-subtag-registry",
 	"version": "0.3.18",
-	"implements": ["CommonJS/Modules/1.0"],
+	"implements": [
+		"CommonJS/Modules/1.0"
+	],
 	"description": "Full BCP 47 language subtag data from the official IANA repository, in JSON format with multiple indices.",
 	"homepage": "https://github.com/mattcg/language-subtag-registry",
 	"repository": {
@@ -12,6 +14,10 @@
 		{
 			"name": "Matthew Caruana Galizia",
 			"email": "m@m.cg"
+		},
+		{
+			"name": "Guillaume Gérard",
+			"email": "guillaume.gerard88@gmail.com"
 		}
 	],
 	"licenses": [
@@ -29,5 +35,8 @@
 		"subtags",
 		"rfc5646",
 		"language"
-	]
+	],
+	"devDependencies": {
+		"jsonlint": "1.x.x"
+	}
 }
