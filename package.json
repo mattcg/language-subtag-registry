@@ -12,6 +12,10 @@
 		{
 			"name": "Matthew Caruana Galizia",
 			"email": "m@m.cg"
+		},
+		{
+			"name": "Guillaume Gérard",
+			"email": "guillaume.gerard88@gmail.com"
 		}
 	],
 	"licenses": [
@@ -23,6 +27,7 @@
 	"scripts": {
 		"test": "make test"
 	},
+	"main": "index.js",
 	"keywords": [
 		"iana",
 		"bcp47",
