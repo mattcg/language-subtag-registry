@@ -1427,7 +1427,10 @@
 			"Serbian"
 		],
 		"Added": "2005-10-16",
-		"Macrolanguage": "sh"
+		"Macrolanguage": "sh",
+		"Comments": [
+			"see cnr for Montenegrin"
+		]
 	},
 	{
 		"Type": "language",
@@ -12751,6 +12754,18 @@
 			"Con"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "cnr",
+		"Description": [
+			"Montenegrin"
+		],
+		"Added": "2018-01-23",
+		"Macrolanguage": "sh",
+		"Comments": [
+			"see sr for Serbian"
+		]
 	},
 	{
 		"Type": "language",
@@ -69632,9 +69647,17 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Cpmn",
+		"Description": [
+			"Cypro-Minoan"
+		],
+		"Added": "2017-08-13"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Cprt",
 		"Description": [
-			"Cypriot"
+			"Cypriot syllabary"
 		],
 		"Added": "2005-10-16"
 	},
@@ -69906,6 +69929,14 @@
 			"Pahawh Hmong"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Hmnp",
+		"Description": [
+			"Nyiakeng Puachue Hmong"
+		],
+		"Added": "2017-08-13"
 	},
 	{
 		"Type": "script",
@@ -70361,11 +70392,22 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Nkdb",
+		"Description": [
+			"Naxi Dongba",
+			"na²¹ɕi³³ to³³ba²¹",
+			"Nakhi Tomba"
+		],
+		"Added": "2017-08-13"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Nkgb",
 		"Description": [
-			"Nakhi Geba",
+			"Naxi Geba",
+			"na²¹ɕi³³ gʌ²¹ba²¹",
 			"'Na-'Khi ²Ggŏ-¹baw",
-			"Naxi Geba"
+			"Nakhi Geba"
 		],
 		"Added": "2009-03-13"
 	},
@@ -70548,6 +70590,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Rohg",
+		"Description": [
+			"Hanifi Rohingya"
+		],
+		"Added": "2017-12-13"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Roro",
 		"Description": [
 			"Rongorongo"
@@ -70622,6 +70672,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Shui",
+		"Description": [
+			"Shuishu"
+		],
+		"Added": "2017-08-13"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Sidd",
 		"Description": [
 			"Siddham",
@@ -70646,6 +70704,22 @@
 			"Sinhala"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Sogd",
+		"Description": [
+			"Sogdian"
+		],
+		"Added": "2017-12-13"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Sogo",
+		"Description": [
+			"Old Sogdian"
+		],
+		"Added": "2017-12-13"
 	},
 	{
 		"Type": "script",
@@ -70868,6 +70942,14 @@
 			"Varang Kshiti"
 		],
 		"Added": "2009-12-09"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Wcho",
+		"Description": [
+			"Wancho"
+		],
+		"Added": "2017-08-13"
 	},
 	{
 		"Type": "script",
@@ -73953,6 +74035,20 @@
 		"Added": "2010-07-28",
 		"Prefix": [
 			"sa"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "ivanchov",
+		"Description": [
+			"Bulgarian in 1899 orthography"
+		],
+		"Added": "2017-12-13",
+		"Prefix": [
+			"bg"
+		],
+		"Comments": [
+			"Bulgarian orthography introduced by Todor Ivanchov in 1899"
 		]
 	},
 	{
