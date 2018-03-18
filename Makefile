@@ -8,6 +8,6 @@ update:
 	node scripts/importer $(REGISTRY_CACHE) data/json
 
 test:
-	jshint data/json/*.json
+	find ./data/json/*.json -exec ./node_modules/.bin/jsonlint -q {} \;
 
 .PHONY: update test
