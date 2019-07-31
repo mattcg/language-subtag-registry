@@ -20,12 +20,7 @@
 			"email": "guillaume.gerard88@gmail.com"
 		}
 	],
-	"licenses": [
-		{
-			"type": "ODC-By-1.0",
-			"url": "http://opendatacommons.org/licenses/by/1.0/"
-		}
-	],
+	"license": "ODC-By-1.0",
 	"scripts": {
 		"test": "make test"
 	},
