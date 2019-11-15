@@ -105,6 +105,10 @@ function parseRecord(record) {
 		case 'Prefix':
 			if (!out[n]) {
 				out[n] = [v];
+			} else if (0 === c) {
+
+				// Fix for #6.
+				out[n][out[n].length - 1] += ' ' + v;
 			} else {
 				out[n].push(v);
 			}

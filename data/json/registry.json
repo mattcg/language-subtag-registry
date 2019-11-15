@@ -582,8 +582,7 @@
 		"Type": "language",
 		"Subtag": "ia",
 		"Description": [
-			"Interlingua (International Auxiliary Language",
-			"Association)"
+			"Interlingua (International Auxiliary Language Association)"
 		],
 		"Added": "2005-10-16"
 	},
@@ -26510,8 +26509,7 @@
 		],
 		"Added": "2005-10-16",
 		"Comments": [
-			"as of 2008-04-21 this subtag does not include Lyngngam; see",
-			"lyg"
+			"as of 2008-04-21 this subtag does not include Lyngngam; see lyg"
 		]
 	},
 	{
@@ -45676,8 +45674,7 @@
 		],
 		"Added": "2009-07-29",
 		"Comments": [
-			"a Niger-Congo language spoken in Cameroon; not to be confused",
-			"with the Pinyin romanization systems used for Chinese and Tibetan"
+			"a Niger-Congo language spoken in Cameroon; not to be confused with the Pinyin romanization systems used for Chinese and Tibetan"
 		]
 	},
 	{
@@ -72129,8 +72126,7 @@
 		],
 		"Added": "2005-10-16",
 		"Comments": [
-			"as of 2006-03-29 GB no longer includes the Channel Islands and",
-			"Isle of Man; see GG, JE, IM"
+			"as of 2006-03-29 GB no longer includes the Channel Islands and Isle of Man; see GG, JE, IM"
 		]
 	},
 	{
@@ -73643,8 +73639,7 @@
 		],
 		"Added": "2010-08-16",
 		"Comments": [
-			"Includes Northern America (021), Caribbean (029), and Central",
-			"America (013); see also 021"
+			"Includes Northern America (021), Caribbean (029), and Central America (013); see also 021"
 		]
 	},
 	{
@@ -73727,8 +73722,7 @@
 		],
 		"Added": "2005-10-16",
 		"Comments": [
-			"Does not include Caribbean (029) or Central America (013); see",
-			"also 003"
+			"Does not include Caribbean (029) or Central America (013); see also 003"
 		]
 	},
 	{
@@ -73886,9 +73880,7 @@
 			"frm"
 		],
 		"Comments": [
-			"16th century French as in Jean Nicot, \"Thresor de la langue",
-			"francoyse\", 1606, but also including some French similar to that of",
-			"Rabelais"
+			"16th century French as in Jean Nicot, \"Thresor de la langue francoyse\", 1606, but also including some French similar to that of Rabelais"
 		]
 	},
 	{
@@ -73902,9 +73894,7 @@
 			"fr"
 		],
 		"Comments": [
-			"17th century French, as catalogued in the \"Dictionnaire de",
-			"l'académie françoise\", 4eme ed. 1694; frequently includes",
-			"elements of Middle French, as this is a transitional period"
+			"17th century French, as catalogued in the \"Dictionnaire de l'académie françoise\", 4eme ed. 1694; frequently includes elements of Middle French, as this is a transitional period"
 		]
 	},
 	{
@@ -73922,8 +73912,7 @@
 		"Type": "variant",
 		"Subtag": "1959acad",
 		"Description": [
-			"\"Academic\" (\"governmental\") variant of Belarusian as",
-			"codified in 1959"
+			"\"Academic\" (\"governmental\") variant of Belarusian as codified in 1959"
 		],
 		"Added": "2008-09-30",
 		"Prefix": [
@@ -73963,16 +73952,14 @@
 		"Type": "variant",
 		"Subtag": "abl1943",
 		"Description": [
-			"Orthographic formulation of 1943 - Official in Brazil",
-			"(Formulário Ortográfico de 1943 - Oficial no Brasil)"
+			"Orthographic formulation of 1943 - Official in Brazil (Formulário Ortográfico de 1943 - Oficial no Brasil)"
 		],
 		"Added": "2015-05-06",
 		"Prefix": [
 			"pt-BR"
 		],
 		"Comments": [
-			"Denotes conventions established by the Academia Brasileira de",
-			"Letras in 1943 and generally used in Brazil until 2009"
+			"Denotes conventions established by the Academia Brasileira de Letras in 1943 and generally used in Brazil until 2009"
 		]
 	},
 	{
@@ -73983,10 +73970,7 @@
 		],
 		"Added": "2009-12-09",
 		"Comments": [
-			"Romanizations recommended by the American Library Association",
-			"and the Library of Congress, in \"ALA-LC Romanization Tables:",
-			"Transliteration Schemes for Non-Roman Scripts\" (1997), ISBN",
-			"978-0-8444-0940-5."
+			"Romanizations recommended by the American Library Association and the Library of Congress, in \"ALA-LC Romanization Tables: Transliteration Schemes for Non-Roman Scripts\" (1997), ISBN 978-0-8444-0940-5."
 		]
 	},
 	{
@@ -74001,8 +73985,7 @@
 			"djk"
 		],
 		"Comments": [
-			"Aluku dialect of the \"Busi Nenge Tongo\" English-based Creole",
-			"continuum in Eastern Suriname and Western French Guiana"
+			"Aluku dialect of the \"Busi Nenge Tongo\" English-based Creole continuum in Eastern Suriname and Western French Guiana"
 		]
 	},
 	{
@@ -74020,8 +74003,7 @@
 		"Type": "variant",
 		"Subtag": "ao1990",
 		"Description": [
-			"Portuguese Language Orthographic Agreement of 1990 (Acordo",
-			"Ortográfico da Língua Portuguesa de 1990)"
+			"Portuguese Language Orthographic Agreement of 1990 (Acordo Ortográfico da Língua Portuguesa de 1990)"
 		],
 		"Added": "2015-05-06",
 		"Prefix": [
@@ -74029,8 +74011,7 @@
 			"gl"
 		],
 		"Comments": [
-			"Portuguese orthography conventions established in 1990 but",
-			"not brought into effect until 2009"
+			"Portuguese orthography conventions established in 1990 but not brought into effect until 2009"
 		]
 	},
 	{
@@ -74123,12 +74104,7 @@
 			"uz"
 		],
 		"Comments": [
-			"Denotes alphabet used in Turkic republics/regions of the",
-			"former USSR in late 1920s, and throughout 1930s, which aspired to",
-			"represent equivalent phonemes in a unified fashion. Also known as: New",
-			"Turkic Alphabet; Birlәşdirilmiş Jeni Tyrk",
-			"Әlifbasь (Birlesdirilmis Jeni Tyrk Elifbasi);",
-			"Jaŋalif (Janalif)."
+			"Denotes alphabet used in Turkic republics/regions of the former USSR in late 1920s, and throughout 1930s, which aspired to represent equivalent phonemes in a unified fashion. Also known as: New Turkic Alphabet; Birlәşdirilmiş Jeni Tyrk Әlifbasь (Birlesdirilmis Jeni Tyrk Elifbasi); Jaŋalif (Janalif)."
 		]
 	},
 	{
@@ -74155,8 +74131,7 @@
 			"kea"
 		],
 		"Comments": [
-			"Barlavento is one of the two main dialect groups of",
-			"Kabuverdianu."
+			"Barlavento is one of the two main dialect groups of Kabuverdianu."
 		],
 		"Added": "2013-12-10"
 	},
@@ -74205,8 +74180,7 @@
 			"sl-rozaj"
 		],
 		"Comments": [
-			"The dialect of San Giorgio/Bila is one of the four major local",
-			"dialects of Resian"
+			"The dialect of San Giorgio/Bila is one of the four major local dialects of Resian"
 		]
 	},
 	{
@@ -74220,9 +74194,7 @@
 			"sl"
 		],
 		"Comments": [
-			"The subtag represents the alphabet codified by Adam Bohorič",
-			"in 1584 and used from the first printed Slovene book and up to the",
-			"mid-19th century."
+			"The subtag represents the alphabet codified by Adam Bohorič in 1584 and used from the first printed Slovene book and up to the mid-19th century."
 		]
 	},
 	{
@@ -74268,17 +74240,14 @@
 		"Type": "variant",
 		"Subtag": "colb1945",
 		"Description": [
-			"Portuguese-Brazilian Orthographic Convention of 1945",
-			"(Convenção Ortográfica Luso-Brasileira de 1945)"
+			"Portuguese-Brazilian Orthographic Convention of 1945 (Convenção Ortográfica Luso-Brasileira de 1945)"
 		],
 		"Added": "2015-05-06",
 		"Prefix": [
 			"pt"
 		],
 		"Comments": [
-			"Portuguese orthography conventions established in 1945,",
-			"generally in effect until 2009. This reform was not ratified in",
-			"Brazil."
+			"Portuguese orthography conventions established in 1945, generally in effect until 2009. This reform was not ratified in Brazil."
 		]
 	},
 	{
@@ -74316,9 +74285,7 @@
 			"sl"
 		],
 		"Comments": [
-			"The subtag represents the alphabet codified by Peter Dajnko",
-			"and used from 1824 to 1839 mostly in Styria (in what is now Eastern",
-			"Slovenia)."
+			"The subtag represents the alphabet codified by Peter Dajnko and used from 1824 to 1839 mostly in Styria (in what is now Eastern Slovenia)."
 		]
 	},
 	{
@@ -74414,8 +74381,7 @@
 			"oc"
 		],
 		"Comments": [
-			"Classical written standard for Occitan developed in 1935 by",
-			"Alibèrt"
+			"Classical written standard for Occitan developed in 1935 by Alibèrt"
 		]
 	},
 	{
@@ -74440,9 +74406,7 @@
 			"oc"
 		],
 		"Comments": [
-			"Written standard developed by Romanilha in 1853 and used by",
-			"Mistral and the Félibres, including derived standards such as Escolo",
-			"dóu Po, Escolo Gaston Febus, and others"
+			"Written standard developed by Romanilha in 1853 and used by Mistral and the Félibres, including derived standards such as Escolo dóu Po, Escolo Gaston Febus, and others"
 		]
 	},
 	{
@@ -74483,16 +74447,14 @@
 			"nn"
 		],
 		"Comments": [
-			"Norwegian following Ivar Aasen's orthographical principles,",
-			"including modern usage."
+			"Norwegian following Ivar Aasen's orthographical principles, including modern usage."
 		]
 	},
 	{
 		"Type": "variant",
 		"Subtag": "hsistemo",
 		"Description": [
-			"Standard H-system orthographic fallback for spelling",
-			"Esperanto"
+			"Standard H-system orthographic fallback for spelling Esperanto"
 		],
 		"Added": "2017-03-14",
 		"Prefix": [
@@ -74548,8 +74510,7 @@
 			"rm"
 		],
 		"Comments": [
-			"The spoken dialect of the Val Müstair, which has no written",
-			"standard."
+			"The spoken dialect of the Val Müstair, which has no written standard."
 		]
 	},
 	{
@@ -74588,8 +74549,7 @@
 			"pl"
 		],
 		"Comments": [
-			"The dialect of Kociewie is spoken in the region around",
-			"Starogard Gdański, Tczew and Świecie in northern Poland."
+			"The dialect of Kociewie is spoken in the region around Starogard Gdański, Tczew and Świecie in northern Poland."
 		]
 	},
 	{
@@ -74655,8 +74615,7 @@
 			"sl-rozaj"
 		],
 		"Comments": [
-			"The dialect of Lipovaz/Lipovec is one of the minor local",
-			"dialects of Resian"
+			"The dialect of Lipovaz/Lipovec is one of the minor local dialects of Resian"
 		]
 	},
 	{
@@ -74670,8 +74629,7 @@
 			"ru"
 		],
 		"Comments": [
-			"Russian orthography as established by the 1917/1918",
-			"orthographic reforms"
+			"Russian orthography as established by the 1917/1918 orthographic reforms"
 		]
 	},
 	{
@@ -74685,8 +74643,7 @@
 			"sl"
 		],
 		"Comments": [
-			"The subtag represents the alphabet codified by Franc Serafin",
-			"Metelko and used from 1825 to 1833."
+			"The subtag represents the alphabet codified by Franc Serafin Metelko and used from 1825 to 1833."
 		]
 	},
 	{
@@ -74712,8 +74669,7 @@
 			"djk"
 		],
 		"Comments": [
-			"Ndyuka dialect of the \"Busi Nenge Tongo\" English-based",
-			"Creole continuum in Eastern Suriname and Western French Guiana"
+			"Ndyuka dialect of the \"Busi Nenge Tongo\" English-based Creole continuum in Eastern Suriname and Western French Guiana"
 		]
 	},
 	{
@@ -74765,8 +74721,7 @@
 			"sl-rozaj"
 		],
 		"Comments": [
-			"The dialect of Gniva/Njiva is one of the four major local",
-			"dialects of Resian"
+			"The dialect of Gniva/Njiva is one of the four major local dialects of Resian"
 		]
 	},
 	{
@@ -74798,8 +74753,7 @@
 			"sl-rozaj"
 		],
 		"Comments": [
-			"The dialect of Oseacco/Osojane is one of the four major local",
-			"dialects of Resian"
+			"The dialect of Oseacco/Osojane is one of the four major local dialects of Resian"
 		]
 	},
 	{
@@ -74860,8 +74814,7 @@
 			"djk"
 		],
 		"Comments": [
-			"Pamaka dialect of the \"Busi Nenge Tongo\" English-based",
-			"Creole continuum in Eastern Suriname and Western French Guiana"
+			"Pamaka dialect of the \"Busi Nenge Tongo\" English-based Creole continuum in Eastern Suriname and Western French Guiana"
 		]
 	},
 	{
@@ -74875,8 +74828,7 @@
 			"ru"
 		],
 		"Comments": [
-			"Russian orthography from the Petrine orthographic reforms of",
-			"1708 to the 1917 orthographic reform"
+			"Russian orthography from the Petrine orthographic reforms of 1708 to the 1917 orthographic reform"
 		]
 	},
 	{
@@ -74927,8 +74879,7 @@
 			"rm"
 		],
 		"Comments": [
-			"Puter is one of the five traditional written standards or",
-			"\"idioms\" of the Romansh language."
+			"Puter is one of the five traditional written standards or \"idioms\" of the Romansh language."
 		]
 	},
 	{
@@ -75017,8 +74968,7 @@
 			"sl-rozaj"
 		],
 		"Comments": [
-			"The dialect of Stolvizza/Solbica is one of the four major",
-			"local dialects of Resian"
+			"The dialect of Stolvizza/Solbica is one of the four major local dialects of Resian"
 		]
 	},
 	{
@@ -75031,8 +74981,7 @@
 			"kea"
 		],
 		"Comments": [
-			"Sotavento is one of the two main dialect groups of",
-			"Kabuverdianu."
+			"Sotavento is one of the two main dialect groups of Kabuverdianu."
 		],
 		"Added": "2013-12-10"
 	},
@@ -75062,8 +75011,7 @@
 			"rm"
 		],
 		"Comments": [
-			"Surmiran is one of the five traditional written standards or",
-			"\"idioms\" of the Romansh language."
+			"Surmiran is one of the five traditional written standards or \"idioms\" of the Romansh language."
 		]
 	},
 	{
@@ -75077,8 +75025,7 @@
 			"rm"
 		],
 		"Comments": [
-			"Sursilvan is one of the five traditional written standards or",
-			"\"idioms\" of the Romansh language."
+			"Sursilvan is one of the five traditional written standards or \"idioms\" of the Romansh language."
 		]
 	},
 	{
@@ -75092,8 +75039,7 @@
 			"rm"
 		],
 		"Comments": [
-			"Sutsilvan is one of the five traditional written standards or",
-			"\"idioms\" of the Romansh language."
+			"Sutsilvan is one of the five traditional written standards or \"idioms\" of the Romansh language."
 		]
 	},
 	{
@@ -75107,10 +75053,7 @@
 			"be"
 		],
 		"Comments": [
-			"The subtag represents Branislau Taraskievic's Belarusian",
-			"orthography as published in \"Bielaruski klasycny pravapis\" by Juras",
-			"Buslakou, Vincuk Viacorka, Zmicier Sanko, and Zmicier Sauka (Vilnia-",
-			"Miensk 2005)."
+			"The subtag represents Branislau Taraskievic's Belarusian orthography as published in \"Bielaruski klasycny pravapis\" by Juras Buslakou, Vincuk Viacorka, Zmicier Sanko, and Zmicier Sauka (Vilnia- Miensk 2005)."
 		]
 	},
 	{
@@ -75172,8 +75115,7 @@
 			"sa"
 		],
 		"Comments": [
-			"The most ancient dialect of Sanskrit used in verse and prose",
-			"composed until about the 4th century B.C.E."
+			"The most ancient dialect of Sanskrit used in verse and prose composed until about the 4th century B.C.E."
 		]
 	},
 	{
@@ -75187,8 +75129,7 @@
 			"ca"
 		],
 		"Comments": [
-			"Variety spoken in the \"Comunidad Valenciana\" region of Spain,",
-			"where it is co-official with Spanish."
+			"Variety spoken in the \"Comunidad Valenciana\" region of Spain, where it is co-official with Spanish."
 		]
 	},
 	{
@@ -75202,8 +75143,7 @@
 			"rm"
 		],
 		"Comments": [
-			"Vallader is one of the five traditional written standards or",
-			"\"idioms\" of the Romansh language."
+			"Vallader is one of the five traditional written standards or \"idioms\" of the Romansh language."
 		]
 	},
 	{
@@ -75235,8 +75175,7 @@
 		"Type": "variant",
 		"Subtag": "xsistemo",
 		"Description": [
-			"Standard X-system orthographic fallback for spelling",
-			"Esperanto"
+			"Standard X-system orthographic fallback for spelling Esperanto"
 		],
 		"Added": "2017-03-14",
 		"Prefix": [
@@ -75486,8 +75425,7 @@
 		"Type": "grandfathered",
 		"Tag": "zh-min-nan",
 		"Description": [
-			"Minnan, Hokkien, Amoy, Taiwanese, Southern Min, Southern",
-			"Fujian, Hoklo, Southern Fukien, Ho-lo"
+			"Minnan, Hokkien, Amoy, Taiwanese, Southern Min, Southern Fujian, Hoklo, Southern Fukien, Ho-lo"
 		],
 		"Added": "2001-03-26",
 		"Deprecated": "2009-07-29",
