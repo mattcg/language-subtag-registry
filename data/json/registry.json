@@ -69939,6 +69939,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Chrs",
+		"Description": [
+			"Chorasmian"
+		],
+		"Added": "2019-09-11"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Cirt",
 		"Description": [
 			"Cirth"
@@ -69993,6 +70001,14 @@
 			"Nagari"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Diak",
+		"Description": [
+			"Dives Akuru"
+		],
+		"Added": "2019-09-11"
 	},
 	{
 		"Type": "script",
@@ -71298,6 +71314,14 @@
 			"Sumero-Akkadian cuneiform"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Yezi",
+		"Description": [
+			"Yezidi"
+		],
+		"Added": "2019-09-11"
 	},
 	{
 		"Type": "script",
