@@ -8,10 +8,7 @@
 	"homepage": "https://github.com/mattcg/language-subtag-registry",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/mattcg/language-subtag-registry.git"
-	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/"
+		"url": "https://github.com/mattcg/language-subtag-registry"
 	},
 	"contributors": [
 		{
