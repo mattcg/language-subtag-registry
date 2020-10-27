@@ -20,7 +20,7 @@
 			"email": "guillaume.gerard88@gmail.com"
 		}
 	],
-	"license": "ODC-By-1.0",
+	"license": "MIT",
 	"scripts": {
 		"test": "make test"
 	},
