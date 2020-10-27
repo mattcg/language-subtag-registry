@@ -24,6 +24,9 @@
 	"scripts": {
 		"test": "make test"
 	},
+	"files": [
+		"data/json/*.json"
+	],
 	"keywords": [
 		"iana",
 		"bcp47",

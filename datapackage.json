@@ -1,6 +1,6 @@
 {
 	"name": "language-subtag-registry",
-	"datapackage_version": "1.0-beta.5",
+	"profile": "data-package",
 	"title": "BCP 47/IANA language subtag data",
 	"description": "Full BCP 47 language subtag data from the official IANA repository, in JSON format with multiple indices.",
 	"version": "0.3.19",
@@ -14,28 +14,22 @@
 	],
 	"licenses": [
 		{
-			"id": "odc-by",
-			"url": "http://opendatacommons.org/licenses/by/1.0/",
-			"name": "Open Data Commons Attribution License",
-			"version": "1.0"
+			"id": "ODC-BY-1.0",
+			"path": "http://opendatacommons.org/licenses/by/1.0/",
+			"title": "Open Data Commons Attribution License (ODC-By) v1.0"
 		}
 	],
 	"sources": [
 		{
-			"name": "IANA Language Subtag Registry",
-			"web": "http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
+			"title": "IANA Language Subtag Registry",
+			"path": "http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
 		}
 	],
 	"contributors":[
 		{
-			"name": "Matthew Caruana Galizia",
-			"email": "mattcg@gmail.com"
-		}
-	],
-	"maintainers": [
-		{
-			"name": "Matthew Caruana Galizia",
-			"email": "mattcg@gmail.com"
+			"title": "Matthew Caruana Galizia",
+			"email": "mattcg@gmail.com",
+			"role": "author"
 		}
 	],
 	"resources": [
