@@ -4538,6 +4538,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "aqk",
+		"Description": [
+			"Aninka"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "aql",
 		"Description": [
 			"Algic languages"
@@ -7627,7 +7635,9 @@
 		"Description": [
 			"Bikaru"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Preferred-Value": "bir"
 	},
 	{
 		"Type": "language",
@@ -7667,7 +7677,11 @@
 		"Description": [
 			"Vaghat-Ya-Bijim-Legeri"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Comments": [
+			"see dkg, jbm, tyy"
+		]
 	},
 	{
 		"Type": "language",
@@ -8266,7 +8280,9 @@
 		"Description": [
 			"Balau"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Preferred-Value": "iba"
 	},
 	{
 		"Type": "language",
@@ -9037,6 +9053,14 @@
 			"Banda-Banda"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "bpe",
+		"Description": [
+			"Bauni"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -13568,6 +13592,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "csx",
+		"Description": [
+			"Cambodian Sign Language"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "csy",
 		"Description": [
 			"Siyin Chin"
@@ -13694,6 +13726,14 @@
 			"Chol"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "cty",
+		"Description": [
+			"Moundadan Chetty"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -15225,6 +15265,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "dkg",
+		"Description": [
+			"Kadung"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "dkk",
 		"Description": [
 			"Dakka"
@@ -16674,6 +16722,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ehs",
+		"Description": [
+			"Miyakubo Sign Language"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ehu",
 		"Description": [
 			"Ehueun"
@@ -16971,6 +17027,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "emq",
+		"Description": [
+			"Eastern Minyag"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ems",
 		"Description": [
 			"Pacific Gulf Yupik"
@@ -17008,6 +17072,14 @@
 			"Epigraphic Mayan"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "emz",
+		"Description": [
+			"Mbessa"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -19352,6 +19424,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "gii",
+		"Description": [
+			"Girirra"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "gil",
 		"Description": [
 			"Gilbertese"
@@ -19472,7 +19552,11 @@
 		"Description": [
 			"Geji"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Comments": [
+			"see gyz, zbu"
+		]
 	},
 	{
 		"Type": "language",
@@ -19571,6 +19655,14 @@
 			"ǂUngkue"
 		],
 		"Added": "2015-02-12"
+	},
+	{
+		"Type": "language",
+		"Subtag": "glb",
+		"Description": [
+			"Belning"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -21062,6 +21154,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "gyz",
+		"Description": [
+			"Geji",
+			"Gyaazi"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "gza",
 		"Description": [
 			"Ganza"
@@ -21604,6 +21705,15 @@
 			"Hunde"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "hkh",
+		"Description": [
+			"Khah",
+			"Poguli"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -24294,6 +24404,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "jbm",
+		"Description": [
+			"Bijim"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "jbn",
 		"Description": [
 			"Nafusi"
@@ -24546,7 +24664,7 @@
 		"Type": "language",
 		"Subtag": "jid",
 		"Description": [
-			"Bu"
+			"Bu (Kaduna State)"
 		],
 		"Added": "2009-07-29"
 	},
@@ -24704,6 +24822,14 @@
 			"Koro (India)"
 		],
 		"Added": "2012-08-12"
+	},
+	{
+		"Type": "language",
+		"Subtag": "jks",
+		"Description": [
+			"Amami Koniya Sign Language"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -24983,7 +25109,7 @@
 		"Type": "language",
 		"Subtag": "jrt",
 		"Description": [
-			"Jorto"
+			"Jakattoe"
 		],
 		"Added": "2009-07-29"
 	},
@@ -28060,7 +28186,7 @@
 		"Type": "language",
 		"Subtag": "koe",
 		"Description": [
-			"Kacipo-Balesi"
+			"Kacipo-Bale Suri"
 		],
 		"Added": "2009-07-29"
 	},
@@ -32730,6 +32856,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "lsb",
+		"Description": [
+			"Burundian Sign Language",
+			"Langue des Signes Burundaise"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "lsd",
 		"Description": [
 			"Lishana Deni"
@@ -33230,6 +33365,14 @@
 			"Lewo"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "lxm",
+		"Description": [
+			"Lakurumau"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -37595,7 +37738,11 @@
 		"Description": [
 			"Muya"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Comments": [
+			"see emq, wmg"
+		]
 	},
 	{
 		"Type": "language",
@@ -39671,7 +39818,11 @@
 		"Description": [
 			"Ngoni"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Comments": [
+			"see xnj, xnq"
+		]
 	},
 	{
 		"Type": "language",
@@ -41403,6 +41554,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "nqt",
+		"Description": [
+			"Nteng"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "nqy",
 		"Description": [
 			"Akyaung Ari Naga"
@@ -42712,6 +42871,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ocm",
+		"Description": [
+			"Old Cham"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "oco",
 		"Description": [
 			"Old Cornish"
@@ -42941,6 +43108,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "okc",
+		"Description": [
+			"Kobo"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "okd",
 		"Description": [
 			"Okodia"
@@ -43067,6 +43242,14 @@
 			"Okpe (Northwestern Edo)"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "okz",
+		"Description": [
+			"Old Khmer"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -43286,6 +43469,14 @@
 			"Old Mon"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "omy",
+		"Description": [
+			"Old Malay"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -43659,6 +43850,14 @@
 			"Osing"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "osn",
+		"Description": [
+			"Old Sundanese"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -44114,7 +44313,9 @@
 		"Description": [
 			"Papitalai"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Preferred-Value": "kxr"
 	},
 	{
 		"Type": "language",
@@ -45645,6 +45846,7 @@
 		"Type": "language",
 		"Subtag": "png",
 		"Description": [
+			"Pangu",
 			"Pongu"
 		],
 		"Added": "2009-07-29"
@@ -48643,6 +48845,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "rwl",
+		"Description": [
+			"Ruwila"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "rwm",
 		"Description": [
 			"Amba (Uganda)"
@@ -51630,6 +51840,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "sqx",
+		"Description": [
+			"Kufr Qassem Sign Language (KQSL)"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "sra",
 		"Description": [
 			"Saruga"
@@ -52294,8 +52512,17 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "suo",
+		"Description": [
+			"Bouni"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "suq",
 		"Description": [
+			"Tirmaga-Chai Suri",
 			"Suri"
 		],
 		"Added": "2009-07-29"
@@ -57163,6 +57390,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "tyy",
+		"Description": [
+			"Tiyaa"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "tyz",
 		"Description": [
 			"Tày"
@@ -57814,6 +58049,14 @@
 			"Ngarinyin"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "uni",
+		"Description": [
+			"Uni"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -58607,7 +58850,11 @@
 		"Description": [
 			"Ija-Zuba"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Comments": [
+			"see vkn, vkz"
+		]
 	},
 	{
 		"Type": "language",
@@ -58644,6 +58891,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "vkn",
+		"Description": [
+			"Koro Nulu"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "vko",
 		"Description": [
 			"Kodeoha"
@@ -58674,6 +58929,14 @@
 			"Kurrama"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "vkz",
+		"Description": [
+			"Koro Zuba"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -59047,7 +59310,8 @@
 		"Type": "language",
 		"Subtag": "wad",
 		"Description": [
-			"Wandamen"
+			"Wamesa",
+			"Wondama"
 		],
 		"Added": "2009-07-29"
 	},
@@ -60077,6 +60341,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "wmg",
+		"Description": [
+			"Western Minyag"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "wmh",
 		"Description": [
 			"Waima'a"
@@ -60403,7 +60675,11 @@
 		"Description": [
 			"Warapu"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2021-02-20",
+		"Comments": [
+			"see bpe, suo, uni"
+		]
 	},
 	{
 		"Type": "language",
@@ -62272,6 +62548,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "xnj",
+		"Description": [
+			"Ngoni (Tanzania)"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "xnk",
 		"Description": [
 			"Nganakarti"
@@ -62301,6 +62585,14 @@
 			"Anglo-Norman"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "xnq",
+		"Description": [
+			"Ngoni (Mozambique)"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -65023,6 +65315,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ysm",
+		"Description": [
+			"Myanmar Sign Language"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ysn",
 		"Description": [
 			"Sani"
@@ -65732,6 +66032,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "zbu",
+		"Description": [
+			"Bu (Bauchi State)"
+		],
+		"Added": "2021-02-20"
+	},
+	{
+		"Type": "language",
 		"Subtag": "zbw",
 		"Description": [
 			"West Berawan"
@@ -66084,6 +66392,14 @@
 			"Khazar"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "zla",
+		"Description": [
+			"Zula"
+		],
+		"Added": "2021-02-20"
 	},
 	{
 		"Type": "language",
@@ -67852,6 +68168,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "csx",
+		"Description": [
+			"Cambodian Sign Language"
+		],
+		"Added": "2021-02-20",
+		"Preferred-Value": "csx",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "czh",
 		"Description": [
 			"Huizhou Chinese"
@@ -67933,6 +68261,18 @@
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "ecs",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "ehs",
+		"Description": [
+			"Miyakubo Sign Language"
+		],
+		"Added": "2021-02-20",
+		"Preferred-Value": "ehs",
 		"Prefix": [
 			"sgn"
 		]
@@ -68418,6 +68758,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "jks",
+		"Description": [
+			"Amami Koniya Sign Language"
+		],
+		"Added": "2021-02-20",
+		"Preferred-Value": "jks",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "jls",
 		"Description": [
 			"Jamaican Sign Language"
@@ -68600,6 +68952,19 @@
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "lls",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "lsb",
+		"Description": [
+			"Burundian Sign Language",
+			"Langue des Signes Burundaise"
+		],
+		"Added": "2021-02-20",
+		"Preferred-Value": "lsb",
 		"Prefix": [
 			"sgn"
 		]
@@ -69458,6 +69823,18 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "sqx",
+		"Description": [
+			"Kufr Qassem Sign Language (KQSL)"
+		],
+		"Added": "2021-02-20",
+		"Preferred-Value": "sqx",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "ssh",
 		"Description": [
 			"Shihhi Arabic"
@@ -69937,6 +70314,18 @@
 		],
 		"Added": "2009-07-29",
 		"Preferred-Value": "ysl",
+		"Prefix": [
+			"sgn"
+		]
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "ysm",
+		"Description": [
+			"Myanmar Sign Language"
+		],
+		"Added": "2021-02-20",
+		"Preferred-Value": "ysm",
 		"Prefix": [
 			"sgn"
 		]
@@ -71114,6 +71503,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Ougr",
+		"Description": [
+			"Old Uyghur"
+		],
+		"Added": "2021-02-12"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Palm",
 		"Description": [
 			"Palmyrene"
@@ -71127,6 +71524,22 @@
 			"Pau Cin Hau"
 		],
 		"Added": "2013-12-02"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Pcun",
+		"Description": [
+			"Proto-Cuneiform"
+		],
+		"Added": "2021-02-12"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Pelm",
+		"Description": [
+			"Proto-Elamite"
+		],
+		"Added": "2021-02-12"
 	},
 	{
 		"Type": "script",
@@ -71203,11 +71616,27 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Psin",
+		"Description": [
+			"Proto-Sinaitic"
+		],
+		"Added": "2021-02-12"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Qaaa..Qabx",
 		"Description": [
 			"Private use"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Ranj",
+		"Description": [
+			"Ranjana"
+		],
+		"Added": "2021-02-12"
 	},
 	{
 		"Type": "script",
@@ -71543,6 +71972,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Tnsa",
+		"Description": [
+			"Tangsa"
+		],
+		"Added": "2021-03-05"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Toto",
 		"Description": [
 			"Toto"
@@ -71572,6 +72009,14 @@
 			"Visible Speech"
 		],
 		"Added": "2005-10-16"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Vith",
+		"Description": [
+			"Vithkuqi"
+		],
+		"Added": "2021-03-05"
 	},
 	{
 		"Type": "script",
@@ -74362,6 +74807,21 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "arkaika",
+		"Description": [
+			"Arcaicam Esperantom",
+			"Arkaika Esperanto"
+		],
+		"Added": "2020-12-17",
+		"Prefix": [
+			"eo"
+		],
+		"Comments": [
+			"Archaic Esperanto variant devised by Manuel Halvelik"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "asante",
 		"Description": [
 			"Asante Twi",
@@ -74660,6 +75120,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "gallo",
+		"Description": [
+			"Gallo"
+		],
+		"Added": "2021-08-05",
+		"Prefix": [
+			"fr"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "gascon",
 		"Description": [
 			"Gascon"
@@ -74680,7 +75151,17 @@
 		],
 		"Added": "2018-04-22",
 		"Prefix": [
-			"oc"
+			"oc",
+			"oc-aranes",
+			"oc-auvern",
+			"oc-cisaup",
+			"oc-creiss",
+			"oc-gascon",
+			"oc-lemosin",
+			"oc-lengadoc",
+			"oc-nicard",
+			"oc-provenc",
+			"oc-vivaraup"
 		],
 		"Comments": [
 			"Classical written standard for Occitan developed in 1935 by Alibèrt"
@@ -74694,7 +75175,10 @@
 		],
 		"Added": "2018-04-22",
 		"Prefix": [
-			"oc"
+			"oc",
+			"oc-cisaup",
+			"oc-nicard",
+			"oc-provenc"
 		]
 	},
 	{
@@ -74705,7 +75189,17 @@
 		],
 		"Added": "2018-04-22",
 		"Prefix": [
-			"oc"
+			"oc",
+			"oc-aranes",
+			"oc-auvern",
+			"oc-cisaup",
+			"oc-creiss",
+			"oc-gascon",
+			"oc-lemosin",
+			"oc-lengadoc",
+			"oc-nicard",
+			"oc-provenc",
+			"oc-vivaraup"
 		],
 		"Comments": [
 			"Written standard developed by Romanilha in 1853 and used by Mistral and the Félibres, including derived standards such as Escolo dóu Po, Escolo Gaston Febus, and others"
@@ -75358,6 +75852,18 @@
 		],
 		"Comments": [
 			"Sutsilvan is one of the five traditional written standards or \"idioms\" of the Romansh language."
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "synnejyl",
+		"Description": [
+			"Synnejysk",
+			"South Jutish"
+		],
+		"Added": "2021-07-17",
+		"Prefix": [
+			"da"
 		]
 	},
 	{
