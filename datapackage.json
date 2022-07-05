@@ -14,9 +14,9 @@
 	],
 	"licenses": [
 		{
-			"id": "ODC-BY-1.0",
-			"path": "http://opendatacommons.org/licenses/by/1.0/",
-			"title": "Open Data Commons Attribution License (ODC-By) v1.0"
+			"id": "CC0-1.0",
+			"path": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+			"title": "Creative Commons Zero v1.0 Universal"
 		}
 	],
 	"sources": [
