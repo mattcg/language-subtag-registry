@@ -1312,7 +1312,8 @@
 		"Description": [
 			"Sanskrit"
 		],
-		"Added": "2005-10-16"
+		"Added": "2005-10-16",
+		"Scope": "macrolanguage"
 	},
 	{
 		"Type": "language",
@@ -12622,6 +12623,15 @@
 			"Lowland Oaxaca Chontal"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "cls",
+		"Description": [
+			"Classical Sanskrit"
+		],
+		"Added": "2024-03-04",
+		"Macrolanguage": "sa"
 	},
 	{
 		"Type": "language",
@@ -48874,6 +48884,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "rrm",
+		"Description": [
+			"Moriori"
+		],
+		"Added": "2024-03-04"
+	},
+	{
+		"Type": "language",
 		"Subtag": "rro",
 		"Description": [
 			"Waima"
@@ -59578,6 +59596,15 @@
 			"Venezuelan Sign Language"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "vsn",
+		"Description": [
+			"Vedic Sanskrit"
+		],
+		"Added": "2024-03-04",
+		"Macrolanguage": "sa"
 	},
 	{
 		"Type": "language",
@@ -75405,6 +75432,20 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "anpezo",
+		"Description": [
+			"Anpezo standard of Ladin"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"lld"
+		],
+		"Comments": [
+			"Represents the standard written form of Ladin in Anpezo"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "ao1990",
 		"Description": [
 			"Portuguese Language Orthographic Agreement of 1990 (Acordo Ortográfico da Língua Portuguesa de 1990)"
@@ -75776,6 +75817,34 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "fascia",
+		"Description": [
+			"Fascia standard of Ladin"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"lld"
+		],
+		"Comments": [
+			"Represents the standard written form of Ladin in Fascia which unified the three subvarieties Cazet, Brach and Moenat"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "fodom",
+		"Description": [
+			"Fodom standard of Ladin"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"lld"
+		],
+		"Comments": [
+			"Represents the standard written form of Ladin in Livinallongo and Colle Santa Lucia"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "fonipa",
 		"Description": [
 			"International Phonetic Alphabet"
@@ -75841,6 +75910,20 @@
 		],
 		"Comments": [
 			"Occitan variant spoken in Gascony"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "gherd",
+		"Description": [
+			"Gherdëina standard of Ladin"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"lld"
+		],
+		"Comments": [
+			"Represents the standard written form of Ladin in Gherdëina"
 		]
 	},
 	{
@@ -76353,6 +76436,21 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "pehoeji",
+		"Description": [
+			"Hokkien Vernacular Romanization System",
+			"Pe̍h-ōe-jī orthography/romanization"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"nan-Latn"
+		],
+		"Comments": [
+			"Modern Hokkien Vernacular Romanization System, evolved from the New Dictionary in the Amoy by John Van Nest Talmage in 1894"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "petr1708",
 		"Description": [
 			"Petrine orthography"
@@ -76590,6 +76688,21 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "tailo",
+		"Description": [
+			"Taiwanese Hokkien Romanization System for Hokkien languages",
+			"Tâi-lô orthography/romanization"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"nan-Latn"
+		],
+		"Comments": [
+			"Taiwanese Hokkien Romanization System (Tâi-lô) published in 2006 by the Taiwan Ministry of Education"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "tarask",
 		"Description": [
 			"Belarusian in Taraskievica orthography"
@@ -76692,6 +76805,20 @@
 		],
 		"Comments": [
 			"The most ancient dialect of Sanskrit used in verse and prose composed until about the 4th century B.C.E."
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "valbadia",
+		"Description": [
+			"Val Badia standard of Ladin"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"lld"
+		],
+		"Comments": [
+			"Represents the standard written form of Ladin in the Val Badia, unifying the three variants Marô, Mesaval and Badiot spoken in this valley"
 		]
 	},
 	{
