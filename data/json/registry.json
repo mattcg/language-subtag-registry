@@ -14797,6 +14797,7 @@
 		"Type": "language",
 		"Subtag": "dgr",
 		"Description": [
+			"Tlicho",
 			"Dogrib",
 			"Tłı̨chǫ"
 		],
@@ -24038,6 +24039,14 @@
 			"Isu (Menchum Division)"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "isv",
+		"Description": [
+			"Interslavic"
+		],
+		"Added": "2024-05-15"
 	},
 	{
 		"Type": "language",
