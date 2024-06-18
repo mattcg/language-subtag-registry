@@ -76838,6 +76838,20 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "valbadia",
+		"Description": [
+			"Val Badia standard of Ladin"
+		],
+		"Added": "2024-03-04",
+		"Prefix": [
+			"lld"
+		],
+		"Comments": [
+			"Represents the standard written form of Ladin in the Val Badia, unifying the three variants Marô, Mesaval and Badiot spoken in this valley"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "valencia",
 		"Description": [
 			"Valencian"
