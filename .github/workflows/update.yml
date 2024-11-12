@@ -33,9 +33,8 @@ jobs:
       run: make test
     
     - name: Deploy
-      run: chmod +x deploy.sh && export token=${{ secrets.TOKEN }} username=${{secrets.USERNAME}} mail=${{secrets.MAIL}} name=${{secrets.NAME}} && ./deploy.sh
-      env:
-        CI: true
-        ACCESS_TOKEN: ${{ secrets.TOKEN }}
-        BASE_BRANCH: master
-        BRANCH: master
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+        commit_message: "Update Data"
+        file_pattern: "*.MD *.json"
