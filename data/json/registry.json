@@ -76128,6 +76128,22 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "kleinsch",
+		"Description": [
+			"Kleinschmidt orthography",
+			"Allattaasitaamut"
+		],
+		"Added": "2024-07-20",
+		"Prefix": [
+			"kl",
+			"kl-tunumiit"
+		],
+		"Comments": [
+			"Orthography for Greenlandic designed by Samuel Kleinschmidt, used from 1851 to 1973."
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "kociewie",
 		"Description": [
 			"The Kociewie dialect of Polish"
@@ -76159,8 +76175,12 @@
 			"Classical Sanskrit"
 		],
 		"Added": "2010-07-28",
+		"Deprecated": "2024-06-08",
 		"Prefix": [
 			"sa"
+		],
+		"Comments": [
+			"Preferred tag is cls"
 		]
 	},
 	{
@@ -76809,11 +76829,13 @@
 			"Vedic Sanskrit"
 		],
 		"Added": "2010-07-28",
+		"Deprecated": "2024-06-08",
 		"Prefix": [
 			"sa"
 		],
 		"Comments": [
-			"The most ancient dialect of Sanskrit used in verse and prose composed until about the 4th century B.C.E."
+			"The most ancient dialect of Sanskrit used in verse and prose composed until about the 4th century B.C.E.",
+			"Preferred tag is vsn"
 		]
 	},
 	{
