@@ -1,9 +1,7 @@
 {
 	"name": "language-subtag-registry",
 	"version": "0.3.23",
-	"implements": [
-		"CommonJS/Modules/1.0"
-	],
+	"type": "module",
 	"description": "Full BCP 47 language subtag data from the official IANA repository, in JSON format with multiple indices.",
 	"homepage": "https://github.com/mattcg/language-subtag-registry",
 	"repository": {
@@ -22,7 +20,8 @@
 	],
 	"license": "CC0-1.0",
 	"scripts": {
-		"test": "make test"
+		"test": "find ./data/json/*.json -exec ./node_modules/.bin/jsonlint -q {} \\;",
+		"import": "node scripts/importer"
 	},
 	"files": [
 		"data/json/*.json"
@@ -35,6 +34,7 @@
 		"language"
 	],
 	"devDependencies": {
-		"jsonlint": "1.x.x"
+		"jsonlint": "^1.6.3",
+		"eslint": "^9.17.0"
 	}
 }

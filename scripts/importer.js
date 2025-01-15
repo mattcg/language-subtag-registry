@@ -8,25 +8,25 @@
 
 'use strict';
 
-var assert = require('assert');
-var fs = require('fs');
+import assert from 'node:assert';
+import * as fs from 'node:fs';
 
-convert(process.argv[2], process.argv[3]);
+fetch('https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry')
+	.then(response => response.text())
+	.then(convert);
 
-function convert(cache, out) {
-	var write, records, registry = [], index = {}, types = {}, scopes = {};
+function convert(iana) {
+	const out = 'data/json';
+	const records = iana.split('%%');
+	const registry = [], index = {}, types = {}, scopes = {};
 
-	write = function write(name, object) {
+	function write(name, object) {
 		fs.writeFileSync(out + '/' + name + '.json', JSON.stringify(object, null, '\t') + '\n');
-	};
-
-	records = fs.readFileSync(cache, {
-		encoding: 'utf8'
-	}).split('%%');
+	}
 
 	write('meta', parseRecord(records.shift()));
 
-	records.forEach(function(record) {
+	records.forEach((record) => {
 		var i, tag, type;
 
 		record = parseRecord(record);
@@ -51,9 +51,9 @@ function convert(cache, out) {
 
 		if (!index[tag]) {
 			index[tag] = {};
-
-		// Assert that data is not being overwritten.
 		} else {
+
+			// Assert that data is not being overwritten.
 			assert(!index[tag][type]);
 		}
 
@@ -73,19 +73,14 @@ function convert(cache, out) {
 	write('registry', registry);
 	write('index', index);
 
-	Object.keys(types).forEach(function(type) {
-		write(type, types[type]);
-	});
-
-	Object.keys(scopes).forEach(function(scope) {
-		write(scope, scopes[scope]);
-	});
+	Object.keys(types).forEach((type) => write(type, types[type]));
+	Object.keys(scopes).forEach((scope) => write(scope, scopes[scope]));
 }
 
 function parseRecord(record) {
 	var n;
 
-	return record.trim().split('\n').reduce(function(out, line) {
+	return record.trim().split('\n').reduce((out, line) => {
 		var c, v;
 
 		// Every line after the first in a multiline record starts with two spaces.
@@ -100,21 +95,21 @@ function parseRecord(record) {
 
 		// RFC 5646: Field-names MUST NOT occur more than once per record, with the exception of the 'Description', 'Comments', and 'Prefix' fields.
 		switch (n) {
-		case 'Description':
-		case 'Comments':
-		case 'Prefix':
-			if (!out[n]) {
-				out[n] = [v];
-			} else if (0 === c) {
+			case 'Description':
+			case 'Comments':
+			case 'Prefix':
+				if (!out[n]) {
+					out[n] = [v];
+				} else if (0 === c) {
 
-				// Fix for #6.
-				out[n][out[n].length - 1] += ' ' + v;
-			} else {
-				out[n].push(v);
-			}
-			break;
-		default:
-			out[n] = v;
+					// Fix for #6.
+					out[n][out[n].length - 1] += ' ' + v;
+				} else {
+					out[n].push(v);
+				}
+				break;
+			default:
+				out[n] = v;
 		}
 
 		return out;
