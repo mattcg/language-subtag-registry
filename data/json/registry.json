@@ -4811,7 +4811,8 @@
 		"Type": "language",
 		"Subtag": "asb",
 		"Description": [
-			"Assiniboine"
+			"Assiniboine",
+			"Nakoda Assiniboine"
 		],
 		"Added": "2009-07-29"
 	},
@@ -5074,7 +5075,8 @@
 		"Type": "language",
 		"Subtag": "atj",
 		"Description": [
-			"Atikamekw"
+			"Atikamekw",
+			"Nehirowimowin"
 		],
 		"Added": "2009-07-29"
 	},
@@ -9329,6 +9331,7 @@
 		"Type": "language",
 		"Subtag": "bql",
 		"Description": [
+			"Karian",
 			"Bilakura"
 		],
 		"Added": "2009-07-29"
@@ -12547,7 +12550,8 @@
 		"Type": "language",
 		"Subtag": "clc",
 		"Description": [
-			"Chilcotin"
+			"Chilcotin",
+			"Tsilhqot’in"
 		],
 		"Added": "2009-07-29"
 	},
@@ -12612,6 +12616,7 @@
 		"Type": "language",
 		"Subtag": "clm",
 		"Description": [
+			"Klallam",
 			"Clallam"
 		],
 		"Added": "2009-07-29"
@@ -14289,6 +14294,7 @@
 		"Type": "language",
 		"Subtag": "daz",
 		"Description": [
+			"Moi-Wadea",
 			"Dao"
 		],
 		"Added": "2009-07-29"
@@ -14619,7 +14625,9 @@
 		"Description": [
 			"Dek"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2024-12-12",
+		"Preferred-Value": "sqm"
 	},
 	{
 		"Type": "language",
@@ -21289,7 +21297,7 @@
 		"Type": "language",
 		"Subtag": "haa",
 		"Description": [
-			"Han"
+			"Hän"
 		],
 		"Added": "2009-07-29"
 	},
@@ -22180,6 +22188,15 @@
 		],
 		"Added": "2009-07-29",
 		"Macrolanguage": "hmn"
+	},
+	{
+		"Type": "language",
+		"Subtag": "hnm",
+		"Description": [
+			"Hainanese"
+		],
+		"Added": "2024-12-12",
+		"Macrolanguage": "zh"
 	},
 	{
 		"Type": "language",
@@ -25896,6 +25913,7 @@
 		"Type": "language",
 		"Subtag": "kci",
 		"Description": [
+			"Ngyian",
 			"Kamantan"
 		],
 		"Added": "2009-07-29"
@@ -30010,6 +30028,7 @@
 		"Type": "language",
 		"Subtag": "kwk",
 		"Description": [
+			"Kwak'wala",
 			"Kwakiutl"
 		],
 		"Added": "2009-07-29"
@@ -33287,6 +33306,15 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "luh",
+		"Description": [
+			"Leizhou Chinese"
+		],
+		"Added": "2024-12-12",
+		"Macrolanguage": "zh"
+	},
+	{
+		"Type": "language",
 		"Subtag": "lui",
 		"Description": [
 			"Luiseno"
@@ -35140,7 +35168,7 @@
 		"Type": "language",
 		"Subtag": "mhn",
 		"Description": [
-			"Mócheno"
+			"Mòcheno"
 		],
 		"Added": "2009-07-29"
 	},
@@ -36099,6 +36127,8 @@
 		"Type": "language",
 		"Subtag": "mmi",
 		"Description": [
+			"Hember Avu",
+			"Amben",
 			"Musar"
 		],
 		"Added": "2009-07-29"
@@ -39826,8 +39856,9 @@
 		"Type": "language",
 		"Subtag": "new",
 		"Description": [
-			"Newari",
-			"Nepal Bhasa"
+			"Nepal Bhasa",
+			"Newar",
+			"Newari"
 		],
 		"Added": "2005-10-16"
 	},
@@ -42123,7 +42154,9 @@
 		"Description": [
 			"Nathembo"
 		],
-		"Added": "2009-07-29"
+		"Added": "2009-07-29",
+		"Deprecated": "2024-12-12",
+		"Preferred-Value": "eko"
 	},
 	{
 		"Type": "language",
@@ -42986,6 +43019,15 @@
 			"Oroch"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "oak",
+		"Description": [
+			"Noakhali",
+			"Noakhailla"
+		],
+		"Added": "2025-05-14"
 	},
 	{
 		"Type": "language",
@@ -50000,7 +50042,8 @@
 		"Type": "language",
 		"Subtag": "sec",
 		"Description": [
-			"Sechelt"
+			"Sechelt",
+			"She shashishalhem"
 		],
 		"Added": "2009-07-29"
 	},
@@ -50554,7 +50597,8 @@
 		"Type": "language",
 		"Subtag": "shs",
 		"Description": [
-			"Shuswap"
+			"Shuswap",
+			"Secwepemctsín"
 		],
 		"Added": "2009-07-29"
 	},
@@ -50825,6 +50869,15 @@
 			"Sajau Basap"
 		],
 		"Added": "2009-07-29"
+	},
+	{
+		"Type": "language",
+		"Subtag": "sjc",
+		"Description": [
+			"Shaojiang Chinese"
+		],
+		"Added": "2024-12-12",
+		"Macrolanguage": "zh"
 	},
 	{
 		"Type": "language",
@@ -52147,7 +52200,8 @@
 		"Type": "language",
 		"Subtag": "squ",
 		"Description": [
-			"Squamish"
+			"Squamish",
+			"Sḵwx̱wú7mesh sníchim"
 		],
 		"Added": "2009-07-29"
 	},
@@ -54771,7 +54825,9 @@
 		"Type": "language",
 		"Subtag": "thp",
 		"Description": [
-			"Thompson"
+			"Thompson",
+			"Nłeʔkepmxcín",
+			"Thompson River Salish"
 		],
 		"Added": "2009-07-29"
 	},
@@ -54803,7 +54859,8 @@
 		"Type": "language",
 		"Subtag": "tht",
 		"Description": [
-			"Tahltan"
+			"Tahltan",
+			"Tāłtān"
 		],
 		"Added": "2009-07-29"
 	},
@@ -65373,6 +65430,14 @@
 	},
 	{
 		"Type": "language",
+		"Subtag": "ynb",
+		"Description": [
+			"Yamben"
+		],
+		"Added": "2025-02-06"
+	},
+	{
+		"Type": "language",
 		"Subtag": "ynd",
 		"Description": [
 			"Yandruwandha"
@@ -67064,7 +67129,7 @@
 		"Type": "language",
 		"Subtag": "zmp",
 		"Description": [
-			"Mpuono"
+			"Mbuun"
 		],
 		"Added": "2009-07-29"
 	},
@@ -69053,6 +69118,19 @@
 	},
 	{
 		"Type": "extlang",
+		"Subtag": "hnm",
+		"Description": [
+			"Hainanese"
+		],
+		"Added": "2024-12-12",
+		"Preferred-Value": "hnm",
+		"Prefix": [
+			"zh"
+		],
+		"Macrolanguage": "zh"
+	},
+	{
+		"Type": "extlang",
 		"Subtag": "hos",
 		"Description": [
 			"Ho Chi Minh City Sign Language"
@@ -69622,6 +69700,19 @@
 			"lv"
 		],
 		"Macrolanguage": "lv"
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "luh",
+		"Description": [
+			"Leizhou Chinese"
+		],
+		"Added": "2024-12-12",
+		"Preferred-Value": "luh",
+		"Prefix": [
+			"zh"
+		],
+		"Macrolanguage": "zh"
 	},
 	{
 		"Type": "extlang",
@@ -70352,6 +70443,19 @@
 			"ar"
 		],
 		"Macrolanguage": "ar"
+	},
+	{
+		"Type": "extlang",
+		"Subtag": "sjc",
+		"Description": [
+			"Shaojiang Chinese"
+		],
+		"Added": "2024-12-12",
+		"Preferred-Value": "sjc",
+		"Prefix": [
+			"zh"
+		],
+		"Macrolanguage": "zh"
 	},
 	{
 		"Type": "extlang",
@@ -71103,6 +71207,14 @@
 	},
 	{
 		"Type": "script",
+		"Subtag": "Berf",
+		"Description": [
+			"Beria Erfe"
+		],
+		"Added": "2025-02-06"
+	},
+	{
+		"Type": "script",
 		"Subtag": "Bhks",
 		"Description": [
 			"Bhaiksuki"
@@ -71553,6 +71665,14 @@
 			"Nyiakeng Puachue Hmong"
 		],
 		"Added": "2017-08-13"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Hntl",
+		"Description": [
+			"Han (Traditional variant) with Latin (alias for Hant + Latn)"
+		],
+		"Added": "2025-05-14"
 	},
 	{
 		"Type": "script",
@@ -72339,6 +72459,15 @@
 			"Saurashtra"
 		],
 		"Added": "2006-07-21"
+	},
+	{
+		"Type": "script",
+		"Subtag": "Seal",
+		"Description": [
+			"Seal",
+			"Small Seal"
+		],
+		"Added": "2025-05-14"
 	},
 	{
 		"Type": "script",
@@ -75404,6 +75533,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "akhmimic",
+		"Description": [
+			"Akhmimic dialect of Coptic"
+		],
+		"Added": "2025-07-14",
+		"Prefix": [
+			"cop"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "akuapem",
 		"Description": [
 			"Akuapem Twi"
@@ -75697,6 +75837,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "bohairic",
+		"Description": [
+			"Bohairic dialect of Coptic"
+		],
+		"Added": "2025-07-14",
+		"Prefix": [
+			"cop"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "bohoric",
 		"Description": [
 			"Slovene in Bohorič alphabet"
@@ -75836,6 +75987,17 @@
 		],
 		"Comments": [
 			"Represents the standard written form of Ladin in Fascia which unified the three subvarieties Cazet, Brach and Moenat"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "fayyumic",
+		"Description": [
+			"Fayyumic dialect of Coptic"
+		],
+		"Added": "2025-07-14",
+		"Prefix": [
+			"cop"
 		]
 	},
 	{
@@ -75999,6 +76161,17 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "hanoi",
+		"Description": [
+			"The Hà Nội variant of Vietnamese"
+		],
+		"Added": "2025-03-10",
+		"Prefix": [
+			"vi"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "hepburn",
 		"Description": [
 			"Hepburn romanization"
@@ -76047,6 +76220,17 @@
 		"Added": "2017-03-14",
 		"Prefix": [
 			"eo"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "huett",
+		"Description": [
+			"The Huế (province Thừa Thiên) variant of Vietnamese"
+		],
+		"Added": "2025-03-10",
+		"Prefix": [
+			"vi"
 		]
 	},
 	{
@@ -76185,6 +76369,20 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "leidentr",
+		"Description": [
+			"Ancient Egyptian in Leiden Unified Transliteration"
+		],
+		"Added": "2025-02-06",
+		"Prefix": [
+			"egy"
+		],
+		"Comments": [
+			"Recommended by the International Association of Egyptologists"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "lemosin",
 		"Description": [
 			"Limousin"
@@ -76260,6 +76458,50 @@
 		],
 		"Comments": [
 			"Russian orthography as established by the 1917/1918 orthographic reforms"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "lycopol",
+		"Description": [
+			"Lycopolitan alias Subakhmimic dialect of Coptic"
+		],
+		"Added": "2025-07-14",
+		"Prefix": [
+			"cop"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "mdcegyp",
+		"Description": [
+			"Ancient Egyptian hieroglyphs encoded in Manuel de Codage"
+		],
+		"Added": "2025-02-06",
+		"Prefix": [
+			"egy"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "mdctrans",
+		"Description": [
+			"Ancient Egyptian transliteration encoded in Manuel de Codage"
+		],
+		"Added": "2025-02-06",
+		"Prefix": [
+			"egy"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "mesokem",
+		"Description": [
+			"Mesokemic alias Oxyrhynchite dialect of Coptic"
+		],
+		"Added": "2025-07-14",
+		"Prefix": [
+			"cop"
 		]
 	},
 	{
@@ -76586,6 +76828,28 @@
 	},
 	{
 		"Type": "variant",
+		"Subtag": "sahidic",
+		"Description": [
+			"Sahidic dialect of Coptic"
+		],
+		"Added": "2025-07-14",
+		"Prefix": [
+			"cop"
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "saigon",
+		"Description": [
+			"The Sài Gòn variant of Vietnamese"
+		],
+		"Added": "2025-03-10",
+		"Prefix": [
+			"vi"
+		]
+	},
+	{
+		"Type": "variant",
 		"Subtag": "scotland",
 		"Description": [
 			"Scottish Standard English"
@@ -76892,6 +77156,17 @@
 		],
 		"Comments": [
 			"The subtag represents the old orthography of the Latvian language used during c. 1600s–1920s."
+		]
+	},
+	{
+		"Type": "variant",
+		"Subtag": "viennese",
+		"Description": [
+			"The Viennese dialect of German"
+		],
+		"Added": "2025-06-22",
+		"Prefix": [
+			"de"
 		]
 	},
 	{
